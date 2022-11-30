@@ -19,7 +19,11 @@ website:
       - experiment.qmd
       - experiment1.qmd
       - experiment2.qmd
-
+      - experiment3.qmd
+      - experiment4.qmd
+      - experiment5.qmd
+      - experiment6.qmd
+      
 format:
   html:
     theme:
