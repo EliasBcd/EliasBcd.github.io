@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment2.html</loc>
-    <lastmod>2022-11-30T14:23:37.664Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/EliasBcd/EliasBcd.github.io/elias.html</loc>
-    <lastmod>2022-11-30T14:23:40.897Z</lastmod>
+    <lastmod>2022-11-30T15:01:14.332Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment1.html</loc>
-    <lastmod>2022-11-30T14:23:41.269Z</lastmod>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment2.html</loc>
+    <lastmod>2022-11-30T15:01:16.620Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment3.html</loc>
-    <lastmod>2022-11-30T14:23:41.605Z</lastmod>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment1.html</loc>
+    <lastmod>2022-11-30T15:01:17.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment3.html</loc>
+    <lastmod>2022-11-30T15:01:17.404Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment6.html</loc>
+    <lastmod>2022-11-30T15:01:17.792Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment5.html</loc>
+    <lastmod>2022-11-30T15:01:18.184Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment/experiment4.html</loc>
+    <lastmod>2022-11-30T15:01:18.604Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EliasBcd/EliasBcd.github.io/about.html</loc>
-    <lastmod>2022-11-30T14:23:41.945Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment6.html</loc>
-    <lastmod>2022-11-30T14:23:42.277Z</lastmod>
+    <lastmod>2022-11-30T15:01:18.996Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EliasBcd/EliasBcd.github.io/index.html</loc>
-    <lastmod>2022-11-30T14:23:42.633Z</lastmod>
+    <lastmod>2022-11-30T15:01:19.396Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment.html</loc>
-    <lastmod>2022-11-30T14:23:42.961Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment5.html</loc>
-    <lastmod>2022-11-30T14:23:43.305Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/EliasBcd/EliasBcd.github.io/experiment4.html</loc>
-    <lastmod>2022-11-30T14:23:43.637Z</lastmod>
+    <lastmod>2022-11-30T15:01:19.784Z</lastmod>
   </url>
 </urlset>

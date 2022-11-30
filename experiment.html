@@ -65,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-sidebar docked nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -85,10 +85,38 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./experiment.html" aria-current="page">
- <span class="menu-text">Experiment</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-experiment" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Experiment</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-experiment">    
+        <li class="dropdown-header">Experiment</li>
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment1.html">
+ <span class="dropdown-text">Results from Experiment 1</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment2.html">
+ <span class="dropdown-text">Results from Experiment 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment3.html">
+ <span class="dropdown-text">Results from Experiment 3</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment4.html">
+ <span class="dropdown-text">Results from Experiment 4</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment5.html">
+ <span class="dropdown-text">Results from Experiment 5</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./experiment/experiment6.html">
+ <span class="dropdown-text">Results from Experiment 6</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./elias.html">
  <span class="menu-text">Elias</span></a>
@@ -117,44 +145,49 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Experiment</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment.html" class="sidebar-item-text sidebar-link active">Results from the experiment</a>
+  <a href="./experiment/experiment1.html" class="sidebar-item-text sidebar-link">Results from Experiment 1</a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment1.html" class="sidebar-item-text sidebar-link">Results from Experiment 1</a>
+  <a href="./experiment/experiment2.html" class="sidebar-item-text sidebar-link">Results from Experiment 2</a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment2.html" class="sidebar-item-text sidebar-link">Results from Experiment 2</a>
+  <a href="./experiment/experiment3.html" class="sidebar-item-text sidebar-link">Results from Experiment 3</a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment3.html" class="sidebar-item-text sidebar-link">Results from Experiment 3</a>
+  <a href="./experiment/experiment4.html" class="sidebar-item-text sidebar-link">Results from Experiment 4</a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment4.html" class="sidebar-item-text sidebar-link">Results from Experiment 4</a>
+  <a href="./experiment/experiment5.html" class="sidebar-item-text sidebar-link">Results from Experiment 5</a>
   </div>
 </li>
-        <li class="sidebar-item">
+          <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./experiment5.html" class="sidebar-item-text sidebar-link">Results from Experiment 5</a>
+  <a href="./experiment/experiment6.html" class="sidebar-item-text sidebar-link">Results from Experiment 6</a>
   </div>
 </li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./experiment6.html" class="sidebar-item-text sidebar-link">Results from Experiment 6</a>
-  </div>
-</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
