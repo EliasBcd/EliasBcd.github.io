@@ -7,22 +7,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: experiment.qmd
-        text: Experiment
+      - sidebar:experiment
       - href: elias.qmd
         text: Elias
       - about.qmd
   sidebar:
+    id: experiment
     title: "Experiment"
-    style: "docked"
-    contents:
-      - experiment.qmd
-      - experiment1.qmd
-      - experiment2.qmd
-      - experiment3.qmd
-      - experiment4.qmd
-      - experiment5.qmd
-      - experiment6.qmd
+    style: "floating"
+    contents: experiment 
       
 format:
   html:

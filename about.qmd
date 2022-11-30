@@ -1,5 +1,6 @@
 ---
 title: "About"
+sidebar: false
 ---
 
 This is Elias' academic website.

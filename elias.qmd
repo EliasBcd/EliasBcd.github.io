@@ -4,12 +4,13 @@ image: /img/elias.jpg
 about:
   template: trestles
   links: 
-    - icon: mail
+    - icon: envelope
       text: Write me!
       href: mailto:elias.bouacida@univ-paris8.fr
     - icon: github
       text: EliasBcd
       href: https://github.com/EliasBcd/
+sidebar: false
 ---
 
 I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility.
@@ -83,3 +84,25 @@ September 2019 -- August 2021
 :::
 *M.J. Dormer Post-doctoral fellow*
 
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris--Nanterre**  
+:::
+::: {.text-end}
+Nanterre, France  
+September 2017 -- August 2019
+:::
+:::
+*ATER* (teaching assistant)
+
+
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris 1 Panthéon--Sorbonne**  
+:::
+::: {.text-end}
+Paris, France  
+September 2014 -- August 2017
+:::
+:::
+*Contract doctoral* (PhD fellowship)
