@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Elias Bouacida's academic website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: experiment.qmd
+        text: Experiment
+      - href: elias.qmd
+        text: Elias
+      - about.qmd
+  sidebar:
+    title: "Experiment"
+    style: "docked"
+    contents:
+      - experiment.qmd
+      - experiment1.qmd
+      - experiment2.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: source
+
+execute: 
+  freeze: auto
+
+
+

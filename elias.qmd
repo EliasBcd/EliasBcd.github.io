@@ -1,0 +1,85 @@
+---
+title: "Elias Bouacida"
+image: /img/elias.jpg
+about:
+  template: trestles
+  links: 
+    - icon: mail
+      text: Write me!
+      href: mailto:elias.bouacida@univ-paris8.fr
+    - icon: github
+      text: EliasBcd
+      href: https://github.com/EliasBcd/
+---
+
+I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility.
+
+I am currently working as maître de conférence (assistant professor) at the University Paris 8.
+
+### Research interests
+
+- Decision Theory
+- Experimental Economics
+- Behavioral Economics
+- Public Economics
+
+
+### Education
+
+::: {.d-flex .justify-content-between }
+::: {}
+**Paris School of Economics, University Paris 1 Panthéon-Sorbonne**  
+PhD in Economics
+:::
+::: {.text-end}
+Paris, France  
+2019
+:::
+:::
+
+::: {.d-flex .justify-content-between }
+::: {}
+**Paris School of Economics, école nationale des ponts et chaussées**  
+M.Sc in Economics
+:::
+::: {.text-end}
+Paris, France  
+2014
+:::
+:::
+
+::: {.d-flex .justify-content-between }
+::: {}
+**École nationale des ponts et chaussées**  
+M.Eng. in Economics
+:::
+::: {.text-end}
+Champs-sur-Marne, France  
+2014
+:::
+:::
+
+### Experience
+
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris 8 Vincennes -> Saint-Denis**  
+:::
+::: {.text-end}
+Saint-Denis, France  
+September 2021 -- present
+:::
+:::
+*Maître de conférence* (assistant professor)
+
+::: {.d-flex .justify-content-between }
+::: {}
+**Lancaster University Management School**  
+:::
+::: {.text-end}
+Lancaster, United Kingdom  
+September 2019 -- August 2021
+:::
+:::
+*M.J. Dormer Post-doctoral fellow*
+
