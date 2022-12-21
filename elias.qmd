@@ -30,7 +30,7 @@ I am currently working as maître de conférence (assistant professor) at the Un
 ::: {.d-flex .justify-content-between }
 ::: {}
 **Paris School of Economics, University Paris 1 Panthéon-Sorbonne**  
-PhD in Economics
+Ph.D. in Economics
 :::
 ::: {.text-end}
 Paris, France  
@@ -41,7 +41,7 @@ Paris, France
 ::: {.d-flex .justify-content-between }
 ::: {}
 **Paris School of Economics, école nationale des ponts et chaussées**  
-M.Sc in Economics
+M.Sc. in Economics
 :::
 ::: {.text-end}
 Paris, France  
@@ -105,4 +105,4 @@ Paris, France
 September 2014 -- August 2017
 :::
 :::
-*Contract doctoral* (PhD fellowship)
+*Contrat doctoral* (PhD fellowship)
