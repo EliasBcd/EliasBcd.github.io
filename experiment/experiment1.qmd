@@ -17,14 +17,14 @@ The procedure selected by most participants in the experiment is PROCEDURE XX. T
 The DC-2 lottery of XX were 3, 0, so the question selected is the third one. Those who chose the sure amount will receive 9 points, the others 0 points.
 
 ```{r settings}
-source(file.path("..", "..", "PreferenceProcedure", "Code", 'Payments','Payments.R'))
+source(file.path("..", 'Payments.R'))
 name <- c('Lottery', 'Market')
 column_names <- c("Code", "Type", "Points", "USD", "Vote for Procedure", "Compensation Asked", "Group", "Blue Compensation", "Procedure", "Collective", "About Procedures", "Lottery")
 above_header <- c("About You" = 2, "Payments" = 2, "Procedures" = 3, "Procedure Payments" = 3, "Expectations" = 1, " " =1)
 ```
 
 ```{r firstresults}
-data1 <- show_payments(name, dir = file.path("..", "..", "PreferenceProcedure", "Code", 'Payments'))
+data1 <- show_payments(name, dir = file.path('..', 'Data'))
 
 kable(data1, col.names = column_names, align='c') %>%
   add_header_above(above_header) %>% 
