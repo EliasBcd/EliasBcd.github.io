@@ -34,7 +34,7 @@ kable(data1, col.names = column_names, align='c') %>%
 For these participants, Procedure 1 and 2 are reversed.
 
 ```{r reverseresults}
-data2 <- show_payments(rev(name), dir = file.path("..", "..", "PreferenceProcedure", "Code", 'Payments'))
+data2 <- show_payments(rev(name), dir = file.path('..', 'Data'))
 
 kable(data2, col.names = column_names, align='c') %>%
   add_header_above(above_header) %>% 
