@@ -1,0 +1,2 @@
+participant_code,participant_cost,payoff,USD_payoff,participant_mechanism,procedure1,procedure2,allocating_procedure,wta_Lottery,lulu_Lottery,lulu_compensation,lulu_collective_payoff,lulu_private_payoff,belief_payoff,comprehension_payoff,lottery_payoff,wta_Lottery_expect
+wjtrclm9,1,212,4.24,Lottery,Lottery,Arbitrary,Lottery,24,true,24.0,33.0,10,20,20,30,25

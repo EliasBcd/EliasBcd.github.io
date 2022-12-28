@@ -1,0 +1,2 @@
+participant_code,participant_cost,payoff,USD_payoff,participant_mechanism,procedure1,procedure2,allocating_procedure,wta_Bargaining,lulu_Bargaining,lulu_compensation,lulu_collective_payoff,lulu_private_payoff,belief_payoff,comprehension_payoff,lottery_payoff,lulu_Bargaining_expect
+8epubmtb,1,224,4.48,Bargaining,Arbitrary,Bargaining,Bargaining,56,false,0.0,28.666666666666668,90,0,0,30,true

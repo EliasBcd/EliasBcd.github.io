@@ -1,0 +1,6 @@
+participant_code,participant_cost,payoff,USD_payoff,participant_mechanism,procedure1,procedure2,allocating_procedure,wta_Lottery,lulu_Lottery,lulu_compensation,lulu_collective_payoff,lulu_private_payoff,belief_payoff,comprehension_payoff,lottery_payoff,wta_Bargaining_expect
+q7rj7kpt,1,182.5,3.65,Bargaining,Bargaining,Lottery,Lottery,45,true,45.0,22.5,10,0,0,30,24
+y63zn7z9,1,237.5,4.75,Lottery,Bargaining,Lottery,Lottery,85,false,0.0,22.5,90,20,0,30,56
+zdgln8cr,1,222.5,4.45,Lottery,Bargaining,Lottery,Lottery,45,true,45.0,22.5,10,20,20,30,45
+t6nuhsxf,1,181.5,3.63,Lottery,Bargaining,Lottery,Lottery,30,true,45.0,22.5,10,20,0,9,44
+093en87j,0,202.5,4.05,Lottery,Bargaining,Lottery,Lottery,35,true,45.0,22.5,10,20,0,30,55

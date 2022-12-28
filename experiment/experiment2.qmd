@@ -1,5 +1,44 @@
 ---
 title: "Results from Experiment 2"
+execute: 
+  echo: false
+page-layout: full
 ---
+**DISCLAIMER: This is an example of what the results will look like.**
 
-You can find here results from Experiment 2 carried on by Renaud Foucart and Elias Bouacida.
+You can find here the results from Experiment 2 carried on by Renaud Foucart and Elias Bouacida. Remember that 1 point in the experiment is \$0.02.
+
+The procedure selected by most participants in the experiment is PROCEDURE XX for the participants in the first table and YY for those in the second table.
+The draws of the DC-3 lottery of XX were 2, 9, 8, the variable amount received for participants are:
+
+- 90 points for a TYPE A participant in the GREEN GROUP;
+- 20 points for a TYPE A participant in the BLUE GROUP;
+- 90 points for a TYPE B participant in the GREEN GROUP;
+- 20 points for a TYPE B participant in the BLUE GROUP.
+
+The DC-2 lottery of XX were 5, 1, so the question selected is the fifth one. Those who chose the sure amount will receive 15 points, the others 0 points.
+
+```{r settings}
+source(file.path("..", 'Payments.R'))
+name <- c('Lottery', 'Arbitrary')
+column_names <- c("Code", "Type", "Points", "USD", "Vote for Procedure", "Compensation Asked", "Group", "Blue Compensation", "Procedure", "Collective", "About Procedures", "Lottery")
+above_header <- c("About You" = 2, "Payments" = 2, "Procedures" = 3, "Procedure Payments" = 3, "Expectations" = 1, " " =1)
+```
+
+```{r firstresults}
+data1 <- show_payments(name, dir = file.path('..', 'Data'))
+
+kable(data1, col.names = column_names, align='c') %>%
+  add_header_above(above_header) %>% 
+  kable_styling(fixed_thead = TRUE)
+```
+
+For these participants, Procedure 1 and 2 are reversed.
+
+```{r reverseresults}
+data2 <- show_payments(rev(name), dir = file.path('..', 'Data'))
+
+kable(data2, col.names = column_names, align='c') %>%
+  add_header_above(above_header) %>% 
+  kable_styling(fixed_thead = TRUE)
+```
