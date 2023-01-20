@@ -1,0 +1,31 @@
+---
+title: "Research"
+# description-meta: "{{< meta website.description >}}"
+listing:
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+    categories: true
+  - id: working-papers
+    contents: "working-papers/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
+page-layout: full
+include-back-link: false
+toc-location: right
+sidebar: false
+---
+
+My research looks at the understanding of human behavior.
+
+## Journal articles
+
+:::{#articles}
+:::
+
+
+## Working papers
+
+:::{#working-papers}
+:::

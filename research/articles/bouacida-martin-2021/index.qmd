@@ -1,0 +1,49 @@
+---
+title: "Predictive Power in Behavioral Welfare Economics"
+date: 2020-08-17
+author:
+  - name: Elias Bouacida
+    url: https://www.bouacida.fr
+    orcid: 0000-0001-8656-6678
+    affiliation: Lancaster University Management School
+  - name: Daniel Martin
+    url: http://www.martinonline.org/daniel/
+    affiliation: Kellogg School of Management, Northwestern University
+categories:
+  - Behavioral welfare economics
+  - predictive power
+pub-info:
+  reference: >-
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="http://www.martinonline.org/daniel/index.html">Daniel Martin</a>, "Predictive Power in Behavioral Welfare Economics", <em>Journal of the European Economic Association</em>, Volume 19, Issue 3, June 2021, Pages 1556–1591, doi: <a href="https://doi.org/10.1093/jeea/jvaa037"><code>10.1093/jeea/jvaa037</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.1093/jeea/jvaa037
+      icon: fa-solid fa-scroll
+sidebar: false
+---
+
+## Abstract
+
+When choices are inconsistent due to behavioral biases, there is a theoretical debate about whether the structure of a model is necessary for providing precise welfare guidance based on those choices. To address this question empirically, we use standard data sets from the lab and field to evaluate the predictive power of two “model-free” approaches to behavioral welfare analysis. We find they typically have high predictive power, which means there is little ambiguity about what should be selected from each choice set. We also identify properties of revealed preferences that help to explain the predictive power of these approaches.
+
+
+## BibTeX citation
+
+```bibtex
+@article{10.1093/jeea/jvaa037,
+    author = {Bouacida, Elias and Martin, Daniel},
+    title = "{Predictive Power in Behavioral Welfare Economics}",
+    journal = {Journal of the European Economic Association},
+    volume = {19},
+    number = {3},
+    pages = {1556-1591},
+    year = {2020},
+    month = {08},
+    abstract = "{When choices are inconsistent due to behavioral biases, there is a theoretical debate about whether the structure of a model is necessary for providing precise welfare guidance based on those choices. To address this question empirically, we use standard data sets from the lab and field to evaluate the predictive power of two “model-free” approaches to behavioral welfare analysis. We find they typically have high predictive power, which means there is little ambiguity about what should be selected from each choice set. We also identify properties of revealed preferences that help to explain the predictive power of these approaches.}",
+    issn = {1542-4766},
+    doi = {10.1093/jeea/jvaa037},
+    url = {https://doi.org/10.1093/jeea/jvaa037},
+    eprint = {https://academic.oup.com/jeea/article-pdf/19/3/1556/38619262/jvaa037.pdf},
+}
+```
+

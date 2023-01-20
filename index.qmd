@@ -1,10 +1,27 @@
 ---
-title: "Elias Bouacida's academic website"
+title: "Elias Bouacida"
+image: /img/elias.jpg
+about:
+  template: trestles
+  links: 
+    - icon: envelope
+      text: Write me!
+      href: mailto:elias.bouacida@univ-paris8.fr
+    - icon: github
+      text: EliasBcd
+      href: https://github.com/EliasBcd/
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0001-8656-6678/
 sidebar: false
 ---
 
-Welcome to [Elias](elias.qmd)' trial at a new academic website.
-You can find the original one [here](https://bouacida.fr/).
+I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility. I have also started using experiment to understand what procedures people prefer in the allocation of public goods.
+
+I am currently working as maître de conférence (assistant professor) in the [Laboratoire d'économie dyonisien](https://sites.google.com/site/up8led/home) at the [University Paris 8](https://www.univ-paris8.fr/en/).
+
+<!-- Welcome to [Elias](elias.qmd)' trial at a new academic website. -->
+<!-- You can find the original one [here](https://bouacida.fr/). -->
 
 
-If you are looking for the results of the experiment, please go [here](experiment.qmd).
+<!-- If you are looking for the results of the experiment, please go [here](experiment.qmd). -->

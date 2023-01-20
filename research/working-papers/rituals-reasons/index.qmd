@@ -1,0 +1,35 @@
+---
+title: "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems"
+date: 2022-03-23
+author:
+  - name: Elias Bouacida
+    url: https://www.bouacida.fr
+    orcid: 0000-0001-8656-6678
+    affiliation: University Paris 8
+  - name: Renaud Foucart
+    url: https://sites.google.com/site/renaudfoucart/
+    affiliation: Lancaster University Management School
+doi: ""
+categories: 
+- Lotteries
+- Mechanism Design
+pub-info:
+  reference: >-
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems"
+  links:
+    - name: PDF
+      url: https://eprints.lancs.ac.uk/id/eprint/163695/2/LancasterWP2022_005.pdf
+      icon: fa-solid fa-file-pdf
+    - name: Code
+      url: https://github.com/RenaudFouc/ArbitraryvsMeritocraty
+      icon: fa-brands fa-github
+    - name: Data
+      url: https://doi.org/10.17635/lancaster/researchdata/500
+      doi: 10.17635/lancaster/researchdata/500
+      icon: fa-solid fa-table
+sidebar: false    
+---
+
+## Abstract
+
+We study revealed preferences towards the use of random procedures in allocation mechanisms. We report the results of an experiment in which subjects vote on a procedure to allocate a reward to half of them. The first possibility is an explicitly random device: the result of a lottery. The second is either an unpredictable procedure they could interpret as meritocratic, or one that is obviously arbitrary. We run all treatments with and without control. We identify an aversion to lotteries and clearly arbitrary procedures across treatments, even though, on aggregate, subjects do not believe any procedure to give them a higher probability of success, and there is no correlation between beliefs and outcomes. In line with the literature, we also find evidence of a control premium in most procedures.

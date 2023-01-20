@@ -1,29 +1,56 @@
 ---
-title: "Elias Bouacida"
-image: /img/elias.jpg
-about:
-  template: trestles
-  links: 
-    - icon: envelope
-      text: Write me!
-      href: mailto:elias.bouacida@univ-paris8.fr
-    - icon: github
-      text: EliasBcd
-      href: https://github.com/EliasBcd/
+title: "CV"
 sidebar: false
 ---
 
-I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility.
+I am currently maître de conférence at the University Paris 8 Vincennes -> Saint-Denis.
 
-I am currently working as maître de conférence (assistant professor) at the University Paris 8.
+### Experience
 
-### Research interests
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris 8 Vincennes -> Saint-Denis**  
+*Maître de conférence* (assistant professor)
+:::
+::: {.text-end}
+Saint-Denis, France  
+September 2021 -- present
+:::
+:::
 
-- Decision Theory
-- Experimental Economics
-- Behavioral Economics
-- Public Economics
+::: {.d-flex .justify-content-between }
+::: {}
+**Lancaster University Management School**  
+*M.J. Dormer Post-doctoral fellow*
+:::
+::: {.text-end}
+Lancaster, United Kingdom  
+September 2019 -- August 2021
+:::
+:::
 
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris--Nanterre**  
+*ATER* (teaching assistant)
+:::
+::: {.text-end}
+Nanterre, France  
+September 2017 -- August 2019
+:::
+:::
+
+
+::: {.d-flex .justify-content-between }
+::: {}
+**University Paris 1 Panthéon--Sorbonne**  
+*Contrat doctoral* (PhD fellowship)
+:::
+::: {.text-end}
+Paris, France  
+September 2014 -- August 2017
+:::
+:::
 
 ### Education
 
@@ -60,49 +87,6 @@ Champs-sur-Marne, France
 :::
 :::
 
-### Experience
-
-::: {.d-flex .justify-content-between }
-::: {}
-**University Paris 8 Vincennes -> Saint-Denis**  
-:::
-::: {.text-end}
-Saint-Denis, France  
-September 2021 -- present
-:::
-:::
-*Maître de conférence* (assistant professor)
-
-::: {.d-flex .justify-content-between }
-::: {}
-**Lancaster University Management School**  
-:::
-::: {.text-end}
-Lancaster, United Kingdom  
-September 2019 -- August 2021
-:::
-:::
-*M.J. Dormer Post-doctoral fellow*
-
-::: {.d-flex .justify-content-between }
-::: {}
-**University Paris--Nanterre**  
-:::
-::: {.text-end}
-Nanterre, France  
-September 2017 -- August 2019
-:::
-:::
-*ATER* (teaching assistant)
+### Teaching
 
 
-::: {.d-flex .justify-content-between }
-::: {}
-**University Paris 1 Panthéon--Sorbonne**  
-:::
-::: {.text-end}
-Paris, France  
-September 2014 -- August 2017
-:::
-:::
-*Contrat doctoral* (PhD fellowship)
