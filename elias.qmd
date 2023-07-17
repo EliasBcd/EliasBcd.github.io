@@ -56,7 +56,7 @@ September 2014 -- August 2017
 
 ::: {.d-flex .justify-content-between }
 ::: {}
-**Paris School of Economics, University Paris 1 Panthéon-Sorbonne**  
+**Paris School of Economics, University Paris 1 Panthéon--Sorbonne**  
 Ph.D. in Economics
 :::
 ::: {.text-end}
@@ -89,4 +89,34 @@ Champs-sur-Marne, France
 
 ### Teaching
 
+**University Paris 8 Vincennes -> Saint-Denis**  
 
+::: {.d-flex .justify-content-between }
+::: {}
+Microeconomics 1  (1^st^ year)  
+Microeconomics 2  (2^nd^ year)  
+Quantitative Technics for Economists 4  (2^nd^ year)  
+Introduction to R (3^rd^ year)  
+Microeconomics of Banking  (2^nd^ year master)  
+Preparation to internship and thesis  (1^st^ year master)  
+:::
+::: {.text-end}
+2022--present  
+2021--present  
+2021--present  
+2022--present  
+2021--present  
+2022--2023
+:::
+:::
+
+**Lancaster University Management School**
+
+::: {.d-flex .justify-content-between }
+::: {}
+TA for Experimental and Behavioural Economics
+:::
+::: {.text-end}
+2019--2021  
+:::
+:::
