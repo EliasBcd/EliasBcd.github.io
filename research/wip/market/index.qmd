@@ -1,0 +1,34 @@
+---
+title: "The fair allocation of locally undesirable land uses"
+subtitle: "An experiment on the idea of environmental justice"
+date: 2023-06-02
+author:
+  - name: Elias Bouacida
+    url: https://www.bouacida.fr
+    orcid: 0000-0001-8656-6678
+    affiliation: University Paris 8
+  - name: Renaud Foucart
+    url: https://sites.google.com/site/renaudfoucart/
+    affiliation: Lancaster University Management School
+    orcid: 0000-0003-0611-6146
+doi: ""
+categories: 
+- Market
+- Preferences
+pub-info:
+  reference: >-
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "The fair allocation of locally undesirable land uses: An experiment on the idea of environmental justice"
+  links:
+    - name: Code
+      url: https://github.com/RenaudFouc/PreferenceProcedure
+      icon: fa-brands fa-github
+    - name: Data
+      url: https://doi.org/10.57745/ORMINQ
+      doi: 10.57745/ORMINQ
+      icon: fa-solid fa-table
+sidebar: false    
+---
+
+## Abstract
+
+We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation.  In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market.

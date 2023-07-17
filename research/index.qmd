@@ -11,6 +11,10 @@ listing:
     contents: "working-papers/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
+  - id: wip
+    contents: "wip/*/index.qmd"
+    sort: "date desc"
+    template: ../html/research/listing.ejs
 page-layout: full
 include-back-link: false
 toc-location: right
@@ -28,4 +32,9 @@ My research looks at the understanding of human behavior.
 ## Working papers
 
 :::{#working-papers}
+:::
+
+## Work in progress
+
+::: {#wip}
 :::

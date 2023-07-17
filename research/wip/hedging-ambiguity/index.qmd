@@ -1,0 +1,27 @@
+---
+title: "Hedging Against Ambiguity?"
+date: 2023-07-04
+author:
+  - name: Elias Bouacida
+    url: https://www.bouacida.fr
+    orcid: 0000-0001-8656-6678
+    affiliation: University Paris 8
+  - name: Sofiia Mun
+    url: https://www.parisschoolofeconomics.eu/fr/mun-sofiia/
+    affiliation: Paris School of Economics, University Paris 1 Panthéon--Sorbonne
+doi: ""
+categories: 
+- Ambiguity
+- Experiment
+- Hedging
+pub-info:
+  reference: >-
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="mailto:sofiia.mun@psemail.eu">Sofiia Mun</a>, "Hedging Against Ambiguity"
+  links:
+
+sidebar: false    
+---
+
+## Abstract
+
+This paper explores the relationship between deliberate randomization and non-expected utility behavior in decision-making under ambiguity. Using an experimental approach, we investigate individual preferences in ambiguous environments, where hedging against ambiguity is considered optimal according to some theoretical models. We alter ambiguity from two different angles by varying its subjective (the degree of ambiguity associated with beliefs) and objective (the size of the probability space) extent. The size of the set of priors, as well as the subjective measure of ambiguity, have no impact on the randomization behavior of our participants. Interestingly, participants' randomization decisions are not influenced by the change in the relationship between ambiguous alternatives, suggesting the presence of correlation neglect. Further, our design separates ambiguity attitudes from ambiguity insensitivity. The regression analysis reveals that ambiguity aversion has a significant effect on the choice to randomize, indicating that individuals with higher levels of ambiguity aversion are more likely to choose a mixed act over a pure act.
