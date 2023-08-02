@@ -10,16 +10,16 @@ website:
         text: Home
       - href: research/index.qmd
         text: "Research"
-      # - sidebar:experiment
+      - sidebar:experiment
       - href: elias.qmd
         text: CV
       - about.qmd
-  # sidebar:
-  #   id: experiment
-  #   title: "Experiment"
-  #   style: "floating"
-  #   contents: experiment 
-  #     
+  sidebar:
+    id: experiment
+    title: "Experiment"
+    style: "floating"
+    contents: experiment
+
 format:
   html:
     theme:
