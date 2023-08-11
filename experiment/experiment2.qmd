@@ -2,6 +2,7 @@
 title: "Results from Experiment 2"
 execute: 
   echo: false
+  warning: false
 page-layout: full
 ---
 **DISCLAIMER: This is an example of what the results will look like.**
@@ -11,26 +12,27 @@ You can find here the results from Experiment 1 carried on by Renaud Foucart and
 The DC-2 lottery draw of XX were 5, 1, so the participant number selected is 51.
 
 ```{r settings}
-source(file.path("..", 'Payments.R'))
-name <- c('Lottery', 'Arbitrary')
-column_names <- c("Code", "Type", "Points", "USD", "Vote for Procedure", "Compensation Asked", "Group", "Blue Compensation", "Procedure", "Collective", "About Procedures", "Lottery")
-above_header <- c("About You" = 2, "Payments" = 2, "Procedures" = 3, "Procedure Payments" = 3, "Expectations" = 1, " " =1)
+library(scales)
+library(dplyr)
+library(stringr)
+library(kableExtra)
+
+above_header <- c("About You" = 2, " " = 1, "About the Mechanisms" = 6,  "Predictions" = 3)
+
 ```
 
-```{r firstresults}
-data1 <- show_payments(name, dir = file.path('..', 'Data'))
+```{r expe2}
 
-kable(data1, col.names = column_names, align='c') %>%
-  add_header_above(above_header) %>% 
-  kable_styling(fixed_thead = TRUE)
-```
+data2 <- read.csv(file = file.path(file.path('..', 'Data', '2023ResultsExperiment2.csv')))
 
-For these participants, Procedure 1 and 2 are reversed.
+data2<- data2%>% 
+  mutate(payment = scales::dollar_format()(payment),
+         your_threshold = scales::dollar_format()(your_threshold)) %>% 
+  rename_with( ~ str_to_title(gsub("_", " ", .x, fixed = TRUE))) 
 
-```{r reverseresults}
-data2 <- show_payments(rev(name), dir = file.path('..', 'Data'))
 
-kable(data2, col.names = column_names, align='c') %>%
-  add_header_above(above_header) %>% 
-  kable_styling(fixed_thead = TRUE)
+
+kable(data2,
+      align= 'c') %>% 
+  add_header_above(above_header)
 ```

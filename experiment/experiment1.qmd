@@ -12,31 +12,33 @@ You can find here the results from Experiment 1 carried on by Renaud Foucart and
 The DC-2 lottery draw of XX were 5, 1, so the participant number selected is 51.
 
 ```{r settings}
-source(file.path("..", 'Payments.R'))
-name <- c('Arbitrary', 'Bargaining')
-column_names <- c("Code", "Type", "Points", "USD", "Vote for Procedure", "Compensation Asked", "Group", "Blue Compensation", "Procedure", "Collective", "About Procedures", "Lottery")
-above_header <- c("About You" = 2, " " = 1, "About the Mechanisms" = 5,  "Predictions" = 3)
-```
-
-
-
-```{r}
 library(scales)
 library(dplyr)
 library(stringr)
 library(kableExtra)
-data3 <- read.csv(file = file.path(file.path('..', 'Data', 'Experiment2023ResultsExperiment1.csv')))
 
-data3 <- data3 %>% 
-  mutate(payment = scales::dollar_format()(payment)) %>% 
+above_header <- c("About You" = 2, " " = 1, "About the Mechanisms" = 6,  "Predictions" = 3)
+```
+
+
+
+```{r expe1}
+
+data1 <- read.csv(file = file.path(file.path('..', 'Data', '2023ResultsExperiment1.csv')))
+
+data1 <- data1 %>% 
+  mutate(payment = scales::dollar_format()(payment), 
+         your_threshold = scales::dollar_format()(your_threshold)) %>% 
   rename_with( ~ str_to_title(gsub("_", " ", .x, fixed = TRUE))) %>% 
   rename_with( ~ gsub("Rps", "RPS", .x, fixed = TRUE))
 
 
 
-kable(data3,
+kable(data1,
       # col.names = gsub("[_]", " ", names(data3)),
       align= 'c') %>% 
   add_header_above(above_header)
 ```
+
+
 
