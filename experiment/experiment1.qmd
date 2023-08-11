@@ -2,6 +2,7 @@
 title: "Results from Experiment 1"
 execute: 
   echo: false
+  warning: false
 page-layout: full
 ---
 **DISCLAIMER: This is an example of what the results will look like.**
@@ -14,23 +15,28 @@ The DC-2 lottery draw of XX were 5, 1, so the participant number selected is 51.
 source(file.path("..", 'Payments.R'))
 name <- c('Arbitrary', 'Bargaining')
 column_names <- c("Code", "Type", "Points", "USD", "Vote for Procedure", "Compensation Asked", "Group", "Blue Compensation", "Procedure", "Collective", "About Procedures", "Lottery")
-above_header <- c("About You" = 2, "Payments" = 2, "Procedures" = 3, "Procedure Payments" = 3, "Expectations" = 1, " " =1)
+above_header <- c("About You" = 2, " " = 1, "About the Mechanisms" = 5,  "Predictions" = 3)
 ```
 
-```{r firstresults}
-data1 <- show_payments(name, dir = file.path('..', 'Data'))
 
-kable(data1, col.names = column_names, align='c') %>%
-  add_header_above(above_header) %>% 
-  kable_styling(fixed_thead = TRUE)
+
+```{r}
+library(scales)
+library(dplyr)
+library(stringr)
+library(kableExtra)
+data3 <- read.csv(file = file.path(file.path('..', 'Data', 'Experiment2023ResultsExperiment1.csv')))
+
+data3 <- data3 %>% 
+  mutate(payment = scales::dollar_format()(payment)) %>% 
+  rename_with( ~ str_to_title(gsub("_", " ", .x, fixed = TRUE))) %>% 
+  rename_with( ~ gsub("Rps", "RPS", .x, fixed = TRUE))
+
+
+
+kable(data3,
+      # col.names = gsub("[_]", " ", names(data3)),
+      align= 'c') %>% 
+  add_header_above(above_header)
 ```
 
-For these participants, Procedure 1 and 2 are reversed.
-
-```{r reverseresults}
-data2 <- show_payments(rev(name), dir = file.path('..', 'Data'))
-
-kable(data2, col.names = column_names, align='c') %>%
-  add_header_above(above_header) %>% 
-  kable_styling(fixed_thead = TRUE)
-```

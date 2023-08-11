@@ -1,0 +1,6 @@
+code,number,payment,lottery_sequence,time_sequence,participant_mechanism,lottery_ranks,criteria_ranks,time_prediction,lottery_prediction,mechanism_preferred
+0wfxpqra,62,2.5,"Odd, Odd, Even, Even, Even","2, 3, 3, 4, 4",DC-5 Lottery,1,2,Bottom half,Top half,DC-5 Lottery
+2xaarxz2,22,2.4,"Odd, Even, Odd, Even, Even","1, 0, 1, 0, 1",Time,2,1,Top half,Bottom half,DC-5 Lottery
+4g5ipw7o,51,2.4,"Odd, Even, Odd, Odd, Even","3, 1, 2, 5, 9",Time,3,4,Top half,Top half,Time
+qxkijc2n,96,0.8,"Even, Odd, Odd, Even, Odd","1, 2, 4, 3, 3",DC-5 Lottery,4,2,Top half,Top half,DC-5 Lottery
+xxanh085,76,0.8,"Even, Even, Even, Odd, Even","4, 5, 3, 3, 1",DC-5 Lottery,5,4,Top half,Bottom half,Time
