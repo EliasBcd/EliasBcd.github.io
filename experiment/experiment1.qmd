@@ -31,7 +31,7 @@ You can find here the results from Experiment 1 carried on by Renaud Foucart and
 The different draws of the DC-Lottery of August XX at 12.50pm are:
 
 <!-- - DC-2:  X, X, so the participant number selected is XX; -->
-<!-- - DC-3: X, X, X, the rest in the division by 200 is `r dc3 %% 200`, which is the threshold amount (in cents). -->
+<!-- - DC-3: X, X, X, the rest in the division by 200 is `r dc3 %% 200`, which is the threshold amount (in cents). The first number is above/below 5, so the question used is the first/second.-->
 <!-- - DC-4: X, X, X, X, so the rest in the division by 3 is `r dc4%%3` and the question for predictions selected is XX. -->
 <!-- - DC-5: X, X, X, X, X, so the sequence to match is X, X, X, X, X. -->
 
