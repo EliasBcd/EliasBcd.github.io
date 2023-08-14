@@ -7,18 +7,39 @@
     "text": "This is Elias’ academic website."
   },
   {
-    "objectID": "research/wip/hedging-ambiguity/index.html",
-    "href": "research/wip/hedging-ambiguity/index.html",
-    "title": "Hedging Against Ambiguity?",
+    "objectID": "experiment.html",
+    "href": "experiment.html",
+    "title": "Results from the experiment",
     "section": "",
-    "text": "This paper explores the relationship between deliberate randomization and non-expected utility behavior in decision-making under ambiguity. Using an experimental approach, we investigate individual preferences in ambiguous environments, where hedging against ambiguity is considered optimal according to some theoretical models. We alter ambiguity from two different angles by varying its subjective (the degree of ambiguity associated with beliefs) and objective (the size of the probability space) extent. The size of the set of priors, as well as the subjective measure of ambiguity, have no impact on the randomization behavior of our participants. Interestingly, participants’ randomization decisions are not influenced by the change in the relationship between ambiguous alternatives, suggesting the presence of correlation neglect. Further, our design separates ambiguity attitudes from ambiguity insensitivity. The regression analysis reveals that ambiguity aversion has a significant effect on the choice to randomize, indicating that individuals with higher levels of ambiguity aversion are more likely to choose a mixed act over a pure act."
+    "text": "You can find here results from the experiment carried on by Renaud Foucart and Elias Bouacida."
   },
   {
-    "objectID": "research/wip/hedging-ambiguity/index.html#abstract",
-    "href": "research/wip/hedging-ambiguity/index.html#abstract",
-    "title": "Hedging Against Ambiguity?",
+    "objectID": "research/working-papers/rituals-reasons/index.html",
+    "href": "research/working-papers/rituals-reasons/index.html",
+    "title": "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems",
     "section": "",
-    "text": "This paper explores the relationship between deliberate randomization and non-expected utility behavior in decision-making under ambiguity. Using an experimental approach, we investigate individual preferences in ambiguous environments, where hedging against ambiguity is considered optimal according to some theoretical models. We alter ambiguity from two different angles by varying its subjective (the degree of ambiguity associated with beliefs) and objective (the size of the probability space) extent. The size of the set of priors, as well as the subjective measure of ambiguity, have no impact on the randomization behavior of our participants. Interestingly, participants’ randomization decisions are not influenced by the change in the relationship between ambiguous alternatives, suggesting the presence of correlation neglect. Further, our design separates ambiguity attitudes from ambiguity insensitivity. The regression analysis reveals that ambiguity aversion has a significant effect on the choice to randomize, indicating that individuals with higher levels of ambiguity aversion are more likely to choose a mixed act over a pure act."
+    "text": "We study revealed preferences towards the use of random procedures in allocation mechanisms. We report the results of an experiment in which subjects vote on a procedure to allocate a reward to half of them. The first possibility is an explicitly random device: the result of a lottery. The second is either an unpredictable procedure they could interpret as meritocratic, or one that is obviously arbitrary. We run all treatments with and without control. We identify an aversion to lotteries and clearly arbitrary procedures across treatments, even though, on aggregate, subjects do not believe any procedure to give them a higher probability of success, and there is no correlation between beliefs and outcomes. In line with the literature, we also find evidence of a control premium in most procedures."
+  },
+  {
+    "objectID": "research/working-papers/rituals-reasons/index.html#abstract",
+    "href": "research/working-papers/rituals-reasons/index.html#abstract",
+    "title": "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems",
+    "section": "",
+    "text": "We study revealed preferences towards the use of random procedures in allocation mechanisms. We report the results of an experiment in which subjects vote on a procedure to allocate a reward to half of them. The first possibility is an explicitly random device: the result of a lottery. The second is either an unpredictable procedure they could interpret as meritocratic, or one that is obviously arbitrary. We run all treatments with and without control. We identify an aversion to lotteries and clearly arbitrary procedures across treatments, even though, on aggregate, subjects do not believe any procedure to give them a higher probability of success, and there is no correlation between beliefs and outcomes. In line with the literature, we also find evidence of a control premium in most procedures."
+  },
+  {
+    "objectID": "research/wip/market/index.html",
+    "href": "research/wip/market/index.html",
+    "title": "The fair allocation of locally undesirable land uses",
+    "section": "",
+    "text": "We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation. In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market."
+  },
+  {
+    "objectID": "research/wip/market/index.html#abstract",
+    "href": "research/wip/market/index.html#abstract",
+    "title": "The fair allocation of locally undesirable land uses",
+    "section": "",
+    "text": "We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation. In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market."
   },
   {
     "objectID": "research/index.html",
@@ -49,81 +70,18 @@
     "text": "Work in progress\n\n\n\n\n        \n            \n                Elias Bouacida, Sofiia Mun, \"Hedging Against Ambiguity\"\n            \n            \n                    \n                            Ambiguity\n                        \n                    \n                            Experiment\n                        \n                    \n                            Hedging\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                \n            \n        \n        \n            \n                Elias Bouacida, Renaud Foucart, \"The fair allocation of locally undesirable land uses: An experiment on the idea of environmental justice\"\n            \n            \n                    \n                            Market\n                        \n                    \n                            Preferences\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                             Code\n                        \n                    \n                    \n                        \n                             Data\n                        \n                    \n                \n            \n        \n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/working-papers/rituals-reasons/index.html",
-    "href": "research/working-papers/rituals-reasons/index.html",
-    "title": "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems",
-    "section": "",
-    "text": "We study revealed preferences towards the use of random procedures in allocation mechanisms. We report the results of an experiment in which subjects vote on a procedure to allocate a reward to half of them. The first possibility is an explicitly random device: the result of a lottery. The second is either an unpredictable procedure they could interpret as meritocratic, or one that is obviously arbitrary. We run all treatments with and without control. We identify an aversion to lotteries and clearly arbitrary procedures across treatments, even though, on aggregate, subjects do not believe any procedure to give them a higher probability of success, and there is no correlation between beliefs and outcomes. In line with the literature, we also find evidence of a control premium in most procedures."
-  },
-  {
-    "objectID": "research/working-papers/rituals-reasons/index.html#abstract",
-    "href": "research/working-papers/rituals-reasons/index.html#abstract",
-    "title": "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems",
-    "section": "",
-    "text": "We study revealed preferences towards the use of random procedures in allocation mechanisms. We report the results of an experiment in which subjects vote on a procedure to allocate a reward to half of them. The first possibility is an explicitly random device: the result of a lottery. The second is either an unpredictable procedure they could interpret as meritocratic, or one that is obviously arbitrary. We run all treatments with and without control. We identify an aversion to lotteries and clearly arbitrary procedures across treatments, even though, on aggregate, subjects do not believe any procedure to give them a higher probability of success, and there is no correlation between beliefs and outcomes. In line with the literature, we also find evidence of a control premium in most procedures."
-  },
-  {
-    "objectID": "elias.html",
-    "href": "elias.html",
-    "title": "CV",
-    "section": "",
-    "text": "I am currently maître de conférence at the University Paris 8 Vincennes -&gt; Saint-Denis.\n\nExperience\n\n\nUniversity Paris 8 Vincennes -&gt; Saint-Denis\nMaître de conférence (assistant professor)\n\n\nSaint-Denis, France\nSeptember 2021 – present\n\n\n\n\nLancaster University Management School\nM.J. Dormer Post-doctoral fellow\n\n\nLancaster, United Kingdom\nSeptember 2019 – August 2021\n\n\n\n\nUniversity Paris–Nanterre\nATER (teaching assistant)\n\n\nNanterre, France\nSeptember 2017 – August 2019\n\n\n\n\nUniversity Paris 1 Panthéon–Sorbonne\nContrat doctoral (PhD fellowship)\n\n\nParis, France\nSeptember 2014 – August 2017\n\n\n\n\nEducation\n\n\nParis School of Economics, University Paris 1 Panthéon–Sorbonne\nPh.D. in Economics\n\n\nParis, France\n2019\n\n\n\n\nParis School of Economics, école nationale des ponts et chaussées\nM.Sc. in Economics\n\n\nParis, France\n2014\n\n\n\n\nÉcole nationale des ponts et chaussées\nM.Eng. in Economics\n\n\nChamps-sur-Marne, France\n2014\n\n\n\n\nTeaching\nUniversity Paris 8 Vincennes -&gt; Saint-Denis\n\n\nMicroeconomics 1 (1st year)\nMicroeconomics 2 (2nd year)\nQuantitative Technics for Economists 4 (2nd year)\nIntroduction to R (3rd year)\nMicroeconomics of Banking (2nd year master)\nPreparation to internship and thesis (1st year master)\n\n\n2022–present\n2021–present\n2021–present\n2022–present\n2021–present\n2022–2023\n\n\nLancaster University Management School\n\n\nTA for Experimental and Behavioural Economics\n\n\n2019–2021"
-  },
-  {
     "objectID": "experiment/experiment1.html",
     "href": "experiment/experiment1.html",
     "title": "Results from Experiment 1",
     "section": "",
-    "text": "DISCLAIMER: This is an example of what the results will look like.\nYou can find here the results from Experiment 1 carried on by Renaud Foucart and Elias Bouacida.\nThe DC-2 lottery draw of XX were 5, 1, so the participant number selected is 51.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\nPayments\n\n\nProcedures\n\n\nProcedure Payments\n\n\nExpectations\n\n\n\n\nCode\nType\nPoints\nUSD\nVote for Procedure\nCompensation Asked\nGroup\nBlue Compensation\nProcedure\nCollective\nAbout Procedures\nLottery\n\n\n\n\n8epubmtb\nA\n224\n4.48\n2\n56\nGreen\n0\n90\n28.66667\n0\n30\n\n\n\n\n\n\n\nFor these participants, Procedure 1 and 2 are reversed.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\nPayments\n\n\nProcedures\n\n\nProcedure Payments\n\n\nExpectations\n\n\n\n\nCode\nType\nPoints\nUSD\nVote for Procedure\nCompensation Asked\nGroup\nBlue Compensation\nProcedure\nCollective\nAbout Procedures\nLottery\n\n\n\n\n216px97d\nB\n177\n3.54\n1\n54\nBlue\n54\n10\n28.66667\n0\n9\n\n\n2ugfdar8\nA\n204\n4.08\n1\n40\nBlue\n40\n10\n28.66667\n20\n30"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Elias Bouacida",
-    "section": "",
-    "text": "I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility. I have also started using experiment to understand what procedures people prefer in the allocation of public goods.\nI am currently working as maître de conférence (assistant professor) in the Laboratoire d’économie dyonisien at the University Paris 8."
+    "text": "DISCLAIMER: This is an example of what the results will look like.\nYou can find here the results from Experiment 1 carried on by Renaud Foucart and Elias Bouacida.\nThe different draws of the DC-Lottery of August XX at 12.50pm are:\n\n\n\n\nThe selected mechanism for the allocation of the reward is XX.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\n\nAbout the Mechanisms\n\n\nPredictions\n\n\n\nCode\nNumber\nPayment\nLottery Sequence\nRPS Sequence\nYour Choice\nYour Threshold\nLottery Ranks\nRPS Ranks\nRPS\nLottery\nMechanism Preferred\n\n\n\n\nkjey9iij\n43\n$2.50\nOdd, Odd, Even, Odd, Odd\n2, 2, 2, 3, 1\nRock, Paper, Scissors\n$0.01\n2\n1\nTop half\nTop half\nRock, Paper, Scissors\n\n\n99jgh4v5\n73\n$2.50\nEven, Odd, Odd, Odd, Odd\n2, 2, 2, 2, 2\nRock, Paper, Scissors\n$0.10\n4\n2\nTop half\nBottom half\nDC-5 Lottery\n\n\nagvbgbdu\n94\n$2.50\nEven, Odd, Even, Odd, Odd\n2, 1, 1, 3, 1\nRock, Paper, Scissors\n$0.10\n5\n2\nTop half\nBottom half\nRock, Paper, Scissors\n\n\nifhthxv4\n81\n$0.90\nEven, Odd, Odd, Even, Odd\n2, 1, 3, 2, 3\nRock, Paper, Scissors\n$0.00\n1\n2\nTop half\nTop half\nRock, Paper, Scissors\n\n\nk5wsixep\n56\n$0.80\nOdd, Even, Even, Odd, Even\n1, 3, 2, 1, 1\nRock, Paper, Scissors\n$0.40\n3\n5\nTop half\nBottom half\nDC-5 Lottery"
   },
   {
     "objectID": "experiment/experiment2.html",
     "href": "experiment/experiment2.html",
     "title": "Results from Experiment 2",
     "section": "",
-    "text": "DISCLAIMER: This is an example of what the results will look like.\nYou can find here the results from Experiment 1 carried on by Renaud Foucart and Elias Bouacida.\nThe DC-2 lottery draw of XX were 5, 1, so the participant number selected is 51.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\nPayments\n\n\nProcedures\n\n\nProcedure Payments\n\n\nExpectations\n\n\n\n\nCode\nType\nPoints\nUSD\nVote for Procedure\nCompensation Asked\nGroup\nBlue Compensation\nProcedure\nCollective\nAbout Procedures\nLottery\n\n\n\n\nwjtrclm9\nA\n212\n4.24\n1\n24\nBlue\n24\n10\n33\n20\n30\n\n\n\n\n\n\n\nFor these participants, Procedure 1 and 2 are reversed.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\nPayments\n\n\nProcedures\n\n\nProcedure Payments\n\n\nExpectations\n\n\n\n\nCode\nType\nPoints\nUSD\nVote for Procedure\nCompensation Asked\nGroup\nBlue Compensation\nProcedure\nCollective\nAbout Procedures\nLottery\n\n\n\n\nxm056aka\nA\n228\n4.56\n2\n24\nGreen\n0\n90\n33\n0\n30"
-  },
-  {
-    "objectID": "experiment.html",
-    "href": "experiment.html",
-    "title": "Results from the experiment",
-    "section": "",
-    "text": "You can find here results from the experiment carried on by Renaud Foucart and Elias Bouacida."
-  },
-  {
-    "objectID": "research/working-papers/identifying-correspondences/index.html",
-    "href": "research/working-papers/identifying-correspondences/index.html",
-    "title": "Identifying Choice Correspondences",
-    "section": "",
-    "text": "We introduce a general method for identifying the sets of best alternatives of decision makers in each choice sets, i.e., their choice correspondences, experimentally. In contrast, most experiments force the choice of a single alternative in each choice set. The method allow decision makers to choose several alternatives, provide a small incentive for each alternative chosen, and then randomly select one for payment. We derive two conditions under which the method may recover the choice correspondence. First, when the incentive to choose several alternative becomes small. Second, we can at least partially identifies the choice correspondence, by obtaining supersets and subsets for each choice set. We illustrate the method with an experiment, in which subjects choose between four paid tasks. In the latter case, we can retrieve the full choice correspondence for 18% of subjects and bind it for another 40%. Using the limit result, we show that 40% of all observed choices can be rationalized by complete, reflexive and transitive preferences in the experiment, i.e., satisfy the Weak Axiom of Revealed Preferences – WARP hereafter. Weakening the classical model, incomplete preferences or just-noticeable difference preferences do not rationalize more choice correspondences. Going beyond, however, we show that complete, reflexive and transitive preferences with menu-dependent choices rationalize 96% of observed choices. Having elicited choice correspondences allows to conclude that indifference is widespread in the experiment.These results pave the way for exploring various behavioral models with a unified method."
-  },
-  {
-    "objectID": "research/working-papers/identifying-correspondences/index.html#abstract",
-    "href": "research/working-papers/identifying-correspondences/index.html#abstract",
-    "title": "Identifying Choice Correspondences",
-    "section": "",
-    "text": "We introduce a general method for identifying the sets of best alternatives of decision makers in each choice sets, i.e., their choice correspondences, experimentally. In contrast, most experiments force the choice of a single alternative in each choice set. The method allow decision makers to choose several alternatives, provide a small incentive for each alternative chosen, and then randomly select one for payment. We derive two conditions under which the method may recover the choice correspondence. First, when the incentive to choose several alternative becomes small. Second, we can at least partially identifies the choice correspondence, by obtaining supersets and subsets for each choice set. We illustrate the method with an experiment, in which subjects choose between four paid tasks. In the latter case, we can retrieve the full choice correspondence for 18% of subjects and bind it for another 40%. Using the limit result, we show that 40% of all observed choices can be rationalized by complete, reflexive and transitive preferences in the experiment, i.e., satisfy the Weak Axiom of Revealed Preferences – WARP hereafter. Weakening the classical model, incomplete preferences or just-noticeable difference preferences do not rationalize more choice correspondences. Going beyond, however, we show that complete, reflexive and transitive preferences with menu-dependent choices rationalize 96% of observed choices. Having elicited choice correspondences allows to conclude that indifference is widespread in the experiment.These results pave the way for exploring various behavioral models with a unified method."
-  },
-  {
-    "objectID": "research/wip/market/index.html",
-    "href": "research/wip/market/index.html",
-    "title": "The fair allocation of locally undesirable land uses",
-    "section": "",
-    "text": "We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation. In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market."
-  },
-  {
-    "objectID": "research/wip/market/index.html#abstract",
-    "href": "research/wip/market/index.html#abstract",
-    "title": "The fair allocation of locally undesirable land uses",
-    "section": "",
-    "text": "We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation. In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market."
+    "text": "DISCLAIMER: This is an example of what the results will look like.\nYou can find here the results from Experiment 2 carried on by Renaud Foucart and Elias Bouacida.\nThe different draws of the DC-Lottery of August XX at 12.50pm are:\n\n\n\n\nThe selected mechanism for the allocation of the reward is XX.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout You\n\n\n\nAbout the Mechanisms\n\n\nPredictions\n\n\n\nCode\nNumber\nPayment\nLottery Sequence\nTime Sequence\nYour Choice\nYour Threshold\nLottery Ranks\nTime Ranks\nTime\nLottery\nMechanism Preferred\n\n\n\n\n0wfxpqra\n62\n$2.50\nOdd, Odd, Even, Even, Even\n2, 3, 3, 4, 4\nDC-5 Lottery\n$1.10\n1\n2\nBottom half\nTop half\nDC-5 Lottery\n\n\n2xaarxz2\n22\n$2.40\nOdd, Even, Odd, Even, Even\n1, 0, 1, 0, 1\nTime\n$0.00\n2\n1\nTop half\nBottom half\nDC-5 Lottery\n\n\n4g5ipw7o\n51\n$2.40\nOdd, Even, Odd, Odd, Even\n3, 1, 2, 5, 9\nTime\n$0.00\n3\n4\nTop half\nTop half\nTime\n\n\nqxkijc2n\n96\n$0.80\nEven, Odd, Odd, Even, Odd\n1, 2, 4, 3, 3\nDC-5 Lottery\n$1.50\n4\n2\nTop half\nTop half\nDC-5 Lottery\n\n\nxxanh085\n76\n$0.80\nEven, Even, Even, Odd, Even\n4, 5, 3, 3, 1\nDC-5 Lottery\n$0.10\n5\n4\nTop half\nBottom half\nTime"
   },
   {
     "objectID": "research/articles/bouacida-martin-2021/index.html",
@@ -145,5 +103,47 @@
     "title": "Predictive Power in Behavioral Welfare Economics",
     "section": "BibTeX citation",
     "text": "BibTeX citation\n@article{10.1093/jeea/jvaa037,\n    author = {Bouacida, Elias and Martin, Daniel},\n    title = \"{Predictive Power in Behavioral Welfare Economics}\",\n    journal = {Journal of the European Economic Association},\n    volume = {19},\n    number = {3},\n    pages = {1556-1591},\n    year = {2020},\n    month = {08},\n    abstract = \"{When choices are inconsistent due to behavioral biases, there is a theoretical debate about whether the structure of a model is necessary for providing precise welfare guidance based on those choices. To address this question empirically, we use standard data sets from the lab and field to evaluate the predictive power of two “model-free” approaches to behavioral welfare analysis. We find they typically have high predictive power, which means there is little ambiguity about what should be selected from each choice set. We also identify properties of revealed preferences that help to explain the predictive power of these approaches.}\",\n    issn = {1542-4766},\n    doi = {10.1093/jeea/jvaa037},\n    url = {https://doi.org/10.1093/jeea/jvaa037},\n    eprint = {https://academic.oup.com/jeea/article-pdf/19/3/1556/38619262/jvaa037.pdf},\n}"
+  },
+  {
+    "objectID": "research/wip/hedging-ambiguity/index.html",
+    "href": "research/wip/hedging-ambiguity/index.html",
+    "title": "Hedging Against Ambiguity?",
+    "section": "",
+    "text": "This paper explores the relationship between deliberate randomization and non-expected utility behavior in decision-making under ambiguity. Using an experimental approach, we investigate individual preferences in ambiguous environments, where hedging against ambiguity is considered optimal according to some theoretical models. We alter ambiguity from two different angles by varying its subjective (the degree of ambiguity associated with beliefs) and objective (the size of the probability space) extent. The size of the set of priors, as well as the subjective measure of ambiguity, have no impact on the randomization behavior of our participants. Interestingly, participants’ randomization decisions are not influenced by the change in the relationship between ambiguous alternatives, suggesting the presence of correlation neglect. Further, our design separates ambiguity attitudes from ambiguity insensitivity. The regression analysis reveals that ambiguity aversion has a significant effect on the choice to randomize, indicating that individuals with higher levels of ambiguity aversion are more likely to choose a mixed act over a pure act."
+  },
+  {
+    "objectID": "research/wip/hedging-ambiguity/index.html#abstract",
+    "href": "research/wip/hedging-ambiguity/index.html#abstract",
+    "title": "Hedging Against Ambiguity?",
+    "section": "",
+    "text": "This paper explores the relationship between deliberate randomization and non-expected utility behavior in decision-making under ambiguity. Using an experimental approach, we investigate individual preferences in ambiguous environments, where hedging against ambiguity is considered optimal according to some theoretical models. We alter ambiguity from two different angles by varying its subjective (the degree of ambiguity associated with beliefs) and objective (the size of the probability space) extent. The size of the set of priors, as well as the subjective measure of ambiguity, have no impact on the randomization behavior of our participants. Interestingly, participants’ randomization decisions are not influenced by the change in the relationship between ambiguous alternatives, suggesting the presence of correlation neglect. Further, our design separates ambiguity attitudes from ambiguity insensitivity. The regression analysis reveals that ambiguity aversion has a significant effect on the choice to randomize, indicating that individuals with higher levels of ambiguity aversion are more likely to choose a mixed act over a pure act."
+  },
+  {
+    "objectID": "research/working-papers/identifying-correspondences/index.html",
+    "href": "research/working-papers/identifying-correspondences/index.html",
+    "title": "Identifying Choice Correspondences",
+    "section": "",
+    "text": "We introduce a general method for identifying the sets of best alternatives of decision makers in each choice sets, i.e., their choice correspondences, experimentally. In contrast, most experiments force the choice of a single alternative in each choice set. The method allow decision makers to choose several alternatives, provide a small incentive for each alternative chosen, and then randomly select one for payment. We derive two conditions under which the method may recover the choice correspondence. First, when the incentive to choose several alternative becomes small. Second, we can at least partially identifies the choice correspondence, by obtaining supersets and subsets for each choice set. We illustrate the method with an experiment, in which subjects choose between four paid tasks. In the latter case, we can retrieve the full choice correspondence for 18% of subjects and bind it for another 40%. Using the limit result, we show that 40% of all observed choices can be rationalized by complete, reflexive and transitive preferences in the experiment, i.e., satisfy the Weak Axiom of Revealed Preferences – WARP hereafter. Weakening the classical model, incomplete preferences or just-noticeable difference preferences do not rationalize more choice correspondences. Going beyond, however, we show that complete, reflexive and transitive preferences with menu-dependent choices rationalize 96% of observed choices. Having elicited choice correspondences allows to conclude that indifference is widespread in the experiment.These results pave the way for exploring various behavioral models with a unified method."
+  },
+  {
+    "objectID": "research/working-papers/identifying-correspondences/index.html#abstract",
+    "href": "research/working-papers/identifying-correspondences/index.html#abstract",
+    "title": "Identifying Choice Correspondences",
+    "section": "",
+    "text": "We introduce a general method for identifying the sets of best alternatives of decision makers in each choice sets, i.e., their choice correspondences, experimentally. In contrast, most experiments force the choice of a single alternative in each choice set. The method allow decision makers to choose several alternatives, provide a small incentive for each alternative chosen, and then randomly select one for payment. We derive two conditions under which the method may recover the choice correspondence. First, when the incentive to choose several alternative becomes small. Second, we can at least partially identifies the choice correspondence, by obtaining supersets and subsets for each choice set. We illustrate the method with an experiment, in which subjects choose between four paid tasks. In the latter case, we can retrieve the full choice correspondence for 18% of subjects and bind it for another 40%. Using the limit result, we show that 40% of all observed choices can be rationalized by complete, reflexive and transitive preferences in the experiment, i.e., satisfy the Weak Axiom of Revealed Preferences – WARP hereafter. Weakening the classical model, incomplete preferences or just-noticeable difference preferences do not rationalize more choice correspondences. Going beyond, however, we show that complete, reflexive and transitive preferences with menu-dependent choices rationalize 96% of observed choices. Having elicited choice correspondences allows to conclude that indifference is widespread in the experiment.These results pave the way for exploring various behavioral models with a unified method."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elias Bouacida",
+    "section": "",
+    "text": "I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility. I have also started using experiment to understand what procedures people prefer in the allocation of public goods.\nI am currently working as maître de conférence (assistant professor) in the Laboratoire d’économie dyonisien at the University Paris 8."
+  },
+  {
+    "objectID": "elias.html",
+    "href": "elias.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am currently maître de conférence at the University Paris 8 Vincennes -&gt; Saint-Denis.\n\nExperience\n\n\nUniversity Paris 8 Vincennes -&gt; Saint-Denis\nMaître de conférence (assistant professor)\n\n\nSaint-Denis, France\nSeptember 2021 – present\n\n\n\n\nLancaster University Management School\nM.J. Dormer Post-doctoral fellow\n\n\nLancaster, United Kingdom\nSeptember 2019 – August 2021\n\n\n\n\nUniversity Paris–Nanterre\nATER (teaching assistant)\n\n\nNanterre, France\nSeptember 2017 – August 2019\n\n\n\n\nUniversity Paris 1 Panthéon–Sorbonne\nContrat doctoral (PhD fellowship)\n\n\nParis, France\nSeptember 2014 – August 2017\n\n\n\n\nEducation\n\n\nParis School of Economics, University Paris 1 Panthéon–Sorbonne\nPh.D. in Economics\n\n\nParis, France\n2019\n\n\n\n\nParis School of Economics, école nationale des ponts et chaussées\nM.Sc. in Economics\n\n\nParis, France\n2014\n\n\n\n\nÉcole nationale des ponts et chaussées\nM.Eng. in Economics\n\n\nChamps-sur-Marne, France\n2014\n\n\n\n\nTeaching\nUniversity Paris 8 Vincennes -&gt; Saint-Denis\n\n\nMicroeconomics 1 (1st year)\nMicroeconomics 2 (2nd year)\nQuantitative Technics for Economists 4 (2nd year)\nIntroduction to R (3rd year)\nMicroeconomics of Banking (2nd year master)\nPreparation to internship and thesis (1st year master)\n\n\n2022–present\n2021–present\n2021–present\n2022–present\n2021–present\n2022–2023\n\n\nLancaster University Management School\n\n\nTA for Experimental and Behavioural Economics\n\n\n2019–2021"
   }
 ]
