@@ -1,6 +1,0 @@
-code,number,payment,lottery_sequence,rps_sequence,your_choice,your_threshold,lottery_ranks,rps_ranks,rps,lottery,mechanism_preferred
-kjey9iij,43,2.5,"Odd, Odd, Even, Odd, Odd","2, 2, 2, 3, 1","Rock, Paper, Scissors",0.01,2,1,Top half,Top half,"Rock, Paper, Scissors"
-99jgh4v5,73,2.5,"Even, Odd, Odd, Odd, Odd","2, 2, 2, 2, 2","Rock, Paper, Scissors",0.1,4,2,Top half,Bottom half,DC-5 Lottery
-agvbgbdu,94,2.5,"Even, Odd, Even, Odd, Odd","2, 1, 1, 3, 1","Rock, Paper, Scissors",0.1,5,2,Top half,Bottom half,"Rock, Paper, Scissors"
-ifhthxv4,81,0.9,"Even, Odd, Odd, Even, Odd","2, 1, 3, 2, 3","Rock, Paper, Scissors",0.0,1,2,Top half,Top half,"Rock, Paper, Scissors"
-k5wsixep,56,0.8,"Odd, Even, Even, Odd, Even","1, 3, 2, 1, 1","Rock, Paper, Scissors",0.4,3,5,Top half,Bottom half,DC-5 Lottery

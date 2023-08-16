@@ -1,0 +1,51 @@
+code,number,payment,lottery_sequence,time_sequence,your_choice,your_threshold,lottery_ranks,time_ranks,time,lottery,mechanism_preferred
+w3azn895,80,3.2,"Even, Odd, Odd, Even, Odd","5, 1, 5, 1, 5",Time,1.0,47,1,Top half,Bottom half,Time
+k1htb1gj,86,3.2,"Odd, Even, Even, Odd, Even","3, 3, 3, 3, 3",Time,1.0,1,2,Top half,Top half,Time
+hlu3xg8u,81,3.0,"Odd, Even, Odd, Odd, Odd","9, 1, 2, 4, 8",DC-5 Lottery,0.65,14,2,Top half,Bottom half,DC-5 Lottery
+57359xo3,57,3.0,"Odd, Even, Even, Odd, Odd","3, 2, 1, 4, 2",Time,2.0,4,4,Bottom half,Bottom half,Time
+kkhw9uho,52,3.0,"Even, Even, Even, Odd, Odd","9, 0, 5, 2, 6",DC-5 Lottery,1.0,19,4,Bottom half,Bottom half,Time
+b5ib0sf4,84,3.0,"Odd, Even, Even, Even, Odd","1, 1, 3, 3, 3",DC-5 Lottery,1.5,12,6,Top half,Bottom half,Time
+d79setrz,14,3.0,"Even, Even, Even, Odd, Even","7, 2, 7, 3, 5",Time,1.5,11,6,Bottom half,Top half,DC-5 Lottery
+gy1xiqb8,90,3.2,"Even, Even, Even, Even, Even","3, 2, 5, 4, 2",Time,1.5,22,8,Top half,Top half,DC-5 Lottery
+7ox9trvk,40,3.2,"Even, Even, Even, Even, Odd","7, 3, 8, 2, 2",DC-5 Lottery,1.3,32,9,Top half,Bottom half,Time
+29tqu3h4,5,3.2,"Odd, Odd, Even, Odd, Even","6, 3, 3, 3, 5",Time,0.5,9,10,Top half,Bottom half,DC-5 Lottery
+kipc2v7r,9,3.2,"Even, Odd, Odd, Even, Odd","2, 0, 5, 3, 0",DC-5 Lottery,0.5,47,10,Top half,Top half,Time
+9hhtqzx6,71,3.2,"Odd, Odd, Odd, Even, Even","2, 1, 0, 0, 3",Time,1.5,29,12,Top half,Top half,Time
+l30ad9mz,10,3.2,"Odd, Odd, Odd, Even, Even","1, 1, 6, 0, 1",Time,2.0,29,12,Bottom half,Bottom half,DC-5 Lottery
+dpo053v6,24,3.0,"Odd, Even, Even, Even, Even","4, 2, 7, 1, 5",DC-5 Lottery,2.0,5,12,Top half,Bottom half,Time
+zlkjfrjj,76,3.0,"Even, Even, Even, Even, Even","8, 0, 8, 0, 8",Time,1.0,22,15,Bottom half,Bottom half,Time
+t19p33c5,64,3.0,"Even, Even, Even, Even, Odd","4, 0, 0, 0, 1",Time,2.0,32,15,Bottom half,Bottom half,DC-5 Lottery
+lgvmlzma,0,3.2,"Even, Even, Odd, Even, Odd","1, 1, 1, 1, 1",Time,2.0,41,17,Top half,Top half,Time
+psd67cyh,61,3.0,"Even, Odd, Even, Even, Even","1, 1, 5, 5, 0",Time,0.1,40,17,Top half,Top half,DC-5 Lottery
+axbtwrg7,29,3.0,"Even, Even, Odd, Odd, Even","2, 3, 0, 3, 0",DC-5 Lottery,1.0,25,17,Bottom half,Bottom half,Time
+nws5vsh1,77,3.2,"Even, Even, Odd, Even, Even","6, 2, 3, 1, 8",DC-5 Lottery,0.5,36,20,Top half,Bottom half,Time
+7jzrpm6v,94,3.0,"Even, Odd, Odd, Even, Even","6, 2, 1, 5, 4",Time,1.0,45,20,Bottom half,Bottom half,DC-5 Lottery
+aqff0b5a,28,3.0,"Even, Even, Even, Odd, Odd","2, 3, 0, 1, 5",Time,2.0,19,20,Bottom half,Bottom half,DC-5 Lottery
+87ixsbft,73,3.2,"Even, Even, Odd, Odd, Odd","1, 4, 6, 5, 0",Time,1.0,34,23,Top half,Bottom half,Time
+ef7z1xrg,68,3.2,"Odd, Even, Odd, Even, Even","2, 1, 1, 1, 6",Time,2.0,16,24,Top half,Top half,Time
+crmlqlhn,56,3.2,"Odd, Even, Even, Even, Even","4, 4, 5, 1, 2",Time,1.5,5,25,Bottom half,Bottom half,DC-5 Lottery
+bbhv87eh,67,3.0,"Even, Odd, Even, Even, Odd","7, 1, 1, 0, 0",DC-5 Lottery,1.0,43,25,Top half,Top half,DC-5 Lottery
+wzebfugm,7,1.0,"Odd, Odd, Even, Even, Even","5, 2, 3, 4, 8",DC-5 Lottery,1.25,18,27,Top half,Bottom half,DC-5 Lottery
+l5zgzxqp,91,1.2,"Even, Odd, Even, Odd, Odd","2, 3, 6, 3, 9",Time,1.5,38,28,Top half,Bottom half,Time
+5sv4kzod,53,1.2,"Odd, Odd, Odd, Even, Even","1, 5, 4, 3, 4",Time,2.0,29,28,Bottom half,Bottom half,DC-5 Lottery
+a65vat74,87,1.2,"Odd, Even, Even, Odd, Even","1, 0, 1, 0, 1",DC-5 Lottery,2.0,1,30,Top half,Top half,DC-5 Lottery
+vf6koz6s,75,1.0,"Even, Odd, Even, Even, Odd","0, 2, 6, 3, 1",DC-5 Lottery,2.0,43,30,Top half,Top half,DC-5 Lottery
+pfnrht2t,33,1.2,"Even, Even, Even, Odd, Odd","2, 1, 4, 3, 2",Time,1.8,19,32,Bottom half,Top half,Time
+l3vzbgo3,72,1.0,"Even, Even, Even, Even, Even","4, 2, 8, 1, 0",Time,1.0,22,32,Top half,Bottom half,Time
+cbezyxil,15,1.0,"Even, Even, Odd, Odd, Odd","5, 3, 3, 3, 5",Time,2.0,34,32,Top half,Bottom half,DC-5 Lottery
+qqq5z395,85,1.0,"Odd, Odd, Odd, Odd, Odd","1, 3, 9, 3, 0",DC-5 Lottery,1.2,28,32,Bottom half,Top half,Time
+x5w9k0hi,63,1.0,"Odd, Even, Odd, Even, Even","7, 3, 3, 5, 7",Time,1.0,16,36,Top half,Bottom half,Time
+frnye9cw,74,1.2,"Even, Odd, Odd, Even, Odd","8, 2, 6, 1, 0",DC-5 Lottery,1.0,47,37,Bottom half,Bottom half,Time
+hakvortl,88,1.0,"Odd, Even, Even, Even, Even","2, 1, 1, 1, 1",Time,2.0,5,37,Bottom half,Bottom half,Time
+c79b5dom,34,1.2,"Odd, Odd, Even, Odd, Even","7, 0, 7, 0, 7",DC-5 Lottery,2.0,9,39,Bottom half,Bottom half,DC-5 Lottery
+vp03yeo3,22,1.0,"Even, Even, Odd, Even, Odd","3, 1, 0, 1, 5",DC-5 Lottery,1.0,41,40,Bottom half,Top half,DC-5 Lottery
+8yhwkpjc,11,1.0,"Even, Odd, Odd, Even, Even","2, 3, 2, 5, 5",Time,1.0,45,40,Bottom half,Top half,DC-5 Lottery
+l8moocv6,49,1.0,"Even, Odd, Odd, Even, Odd","4, 1, 6, 2, 9",Time,1.0,47,42,Top half,Top half,DC-5 Lottery
+6uysx21i,58,1.0,"Even, Odd, Even, Odd, Even","3, 2, 0, 3, 3",DC-5 Lottery,2.0,26,42,Top half,Top half,Time
+nfj3a2vg,2,1.2,"Even, Even, Odd, Even, Even","2, 1, 2, 2, 6",Time,1.0,36,44,Bottom half,Top half,DC-5 Lottery
+p8j6l6ep,12,1.0,"Odd, Even, Odd, Even, Odd","1, 0, 5, 4, 9",DC-5 Lottery,1.0,27,44,Top half,Top half,DC-5 Lottery
+k57g3u56,92,1.0,"Odd, Even, Odd, Odd, Even","1, 1, 5, 0, 0",Time,2.0,8,46,Bottom half,Bottom half,DC-5 Lottery
+5m3vyacv,83,1.0,"Even, Odd, Even, Odd, Odd","9, 3, 5, 1, 5",DC-5 Lottery,1.0,38,46,Top half,Top half,Time
+74lzhilg,62,1.0,"Odd, Even, Even, Even, Odd","1, 1, 1, 1, 1",Time,2.0,12,46,Top half,Top half,Time
+rc6i263t,79,1.0,"Odd, Even, Even, Odd, Even","1, 5, 2, 2, 5",DC-5 Lottery,2.0,1,49,Top half,Bottom half,Time
+poeh2zvi,23,1.0,"Odd, Even, Odd, Odd, Odd","6, 3, 4, 1, 2",DC-5 Lottery,1.5,14,49,Bottom half,Bottom half,Time
