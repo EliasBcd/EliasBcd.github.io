@@ -9,12 +9,10 @@ author:
     affiliation: University Paris 8
 doi: ""
 categories: 
-- Just-noticeable preferences
-- Choice correspondences
-- Revealed preferences
-- Welfare
+- Choice Correspondences
+- Revealed Preferences
 - Indifference
-- WARP
+- Experiment
 pub-info:
   reference: >-
     <a href="https://www.bouacida.fr/">Elias Bouacida</a>, "Identifying Choice Correspondences: A General Method and an Experimental Implementation"
@@ -28,3 +26,20 @@ sidebar: false
 ## Abstract
 
 We introduce a general method for identifying the *sets* of best alternatives of decision makers in each choice sets, i.e., their *choice correspondences*, experimentally. In contrast, most experiments force the choice of a *single* alternative in each choice set. The method allow decision makers to choose several alternatives, provide a small incentive for each alternative chosen, and then randomly select one for payment. We derive two conditions under which the method may recover the choice correspondence. First, when the incentive to choose several alternative becomes small. Second, we can at least partially identifies the choice correspondence, by obtaining supersets and subsets for each choice set. We illustrate the method with an experiment, in which subjects choose between four paid tasks. In the latter case, we can retrieve the full choice correspondence for 18% of subjects and bind it for another 40%. Using the limit result, we show that 40% of all observed choices can be rationalized by complete, reflexive and transitive preferences in the experiment, i.e., satisfy the Weak Axiom of Revealed Preferences – WARP hereafter. Weakening the classical model, incomplete preferences or just-noticeable difference preferences do not rationalize more choice correspondences. Going beyond, however, we show that complete, reflexive and transitive preferences with menu-dependent choices rationalize 96% of observed choices. Having elicited choice correspondences allows to conclude that indifference is widespread in the experiment.These results pave the way for exploring various behavioral models with a unified method.
+
+## Citation
+
+```bibtex
+@unpublished{bouacida:halshs-01998001,
+  TITLE = {{Identifying Choice Correspondences}},
+  AUTHOR = {Bouacida, Elias},
+  URL = {https://shs.hal.science/halshs-01998001},
+  NOTE = {working paper or preprint},
+  YEAR = {2021},
+  MONTH = May,
+  KEYWORDS = {choice correspondences ; revealed preferences ; welfare ; indifference ; WARP ; just noticeable preferences ; aggregation of preferences},
+  PDF = {https://shs.hal.science/halshs-01998001v2/file/ElicitingChoiceCorrespondences.pdf},
+  HAL_ID = {halshs-01998001},
+  HAL_VERSION = {v2},
+}
+```

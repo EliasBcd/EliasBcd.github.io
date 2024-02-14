@@ -13,7 +13,7 @@ doi: ""
 categories: 
 - Ambiguity
 - Experiment
-- Hedging
+- Stochastic Choice
 pub-info:
   reference: >-
     <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="mailto:sofiia.mun@psemail.eu">Sofiia Mun</a>, "Hedging Against Ambiguity"

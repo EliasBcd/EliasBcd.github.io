@@ -1,7 +1,6 @@
 ---
-title: "The fair allocation of locally undesirable land uses"
-subtitle: "An experiment on the idea of environmental justice"
-date: 2023-06-02
+title: "Preferences for market-based allocation mechanisms"
+date: 2023-08-02
 author:
   - name: Elias Bouacida
     url: https://www.bouacida.fr
@@ -14,10 +13,11 @@ author:
 doi: ""
 categories: 
 - Market
-- Preferences
+- Allocation Mechanisms
+- Experiment
 pub-info:
   reference: >-
-    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "The fair allocation of locally undesirable land uses: An experiment on the idea of environmental justice"
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Preferences for market-based allocation mechanisms"
   links:
     - name: Code
       url: https://github.com/RenaudFouc/PreferenceProcedure
@@ -31,4 +31,4 @@ sidebar: false
 
 ## Abstract
 
-We study the efficiency, equity, and social acceptability of market procedures in the allocation of Locally Undesirable Land Uses (LULU) such as polluting industries or waste treatment facilities. As most LULU are allocated using individualized negotiations, it can mean deprived communities ending up being allocated more for a lower compensation.  In theory, a centralized market offering the same compensation to everyone allocated a LULU should be efficient and envy-free, solving one of the major concerns of the environmental justice movement. We show experimentally how a centralized market indeed protects those who understand the least. We however find little support for this procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market.
+We consider the problem of allocating a scarce resource to individuals. A centralized market procedure eliciting individual valuations and yielding a unique price provides in theory the most efficient and equitable way of doing so. As compared to an individualized procedure where the price can possibly differ among players, we show experimentally how such a market indeed protects subjects who make mistakes. We however find little support for a centralized market procedure. One reason is that the benefits from the market are concentrated on a minority of subjects, and many vote against their own monetary interest. The other is that subjects who can expect similar payoffs in both procedures show a strong preference against the market.
