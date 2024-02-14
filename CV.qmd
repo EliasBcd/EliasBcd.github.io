@@ -1,0 +1,193 @@
+---
+title: CV
+author: Elias Bouacida
+email: elias.bouacida@univ-paris8.fr
+format:
+  quarto-cv-pdf: default
+# fontsize: 11pt
+# geometry: margin=1in, a4paper
+github: EliasBcd
+jobtitle: Maître de conférence (Assistant Professor)
+# keywords: R Markdown, academic CV, template
+# linkcolor: blue
+fontawesome: yes
+phone: '+33 1 49 40 73 90'
+address: Bureau D115, Université Paris 8, 2 rue de la Liberté, 93526 Saint-Denis, Seine-Saint-Denis, France
+date: last-modified
+# urlcolor: blue
+web: www.bouacida.fr
+orcid: 0000-0001-8656-6678
+bibliography: 
+  peer: "Bibliography/published.bib"
+  wp: "Bibliography/workingpapers.bib"
+  software: "Bibliography/software.bib"
+  wip: "Bibliography/wip.bib"
+validate-yaml: false
+nocite: '@*'
+---
+
+# Current and Past Positions
+
+Maître de conférence, *Université Paris 8* \hfill $\text{Sep 2021 -- present}$
+
+M.J. Dormer Postdoctoral Fellow, with Professor Eyal Winter *Lancaster University* \hfill $\text{2019 -- 2021}$
+
+# Education
+
+## Doctoral Studies
+
+Ph.D. in Economics,  "Choice, Preferences, and Welfare", *Paris School of Economics, University Paris 1 Panthéon Sorbonne* \begin{flushright} $\text{2014 -- 2019}$\end{flushright} 
+Committee: Stéphane Zuber, Oliver l'Haridon, Eric Danan, Georgios Gerasimou, Daniel Martin (advisor), Jean-Marc Tallon (advisor)
+
+Visiting Scholar, sponsored by Professor Daniel Martin, *Kellogg School of Management, Northwestern University* \begin{flushright} $\text{Mar -- Sep 2016}$\end{flushright}
+
+## Pre-Doctoral Studies
+
+M.Sc. Analysis and Policy in Economics. Thesis supervised by Professor Daniel Martin "The Unambiguous Preference Relation, an Application of the Strict Unambiguous Choice Relation and Behavioral Welfare Economics",  *Paris School of Economics, Ecole nationale des ponts et chaussées* \hfill $\text{2012 -- 2014}$
+
+Engineering degree, *Ecole nationale des ponts et chaussées* \hfill 2009 -- 2014
+
+# Scientific Production
+
+## Publications
+
+::: {#refs-peer}
+:::
+
+
+## Working papers 
+
+::: {#refs-wp}
+:::
+
+## Work in progress
+
+::: {#refs-wip}
+:::
+
+## Software
+
+::: {#refs-software}
+:::
+
+
+# Conferences and Seminars
+
+ASFEE (Montpellier, France), Doctoriales ASFEE (Aussois, France) \hfill 2023
+
+LAGV (Marseille, France), EWMES (Belin, Germany) \hfill 2022
+
+University Paris 8 (Paris, France), University Paris Dauphine (Paris, France), JMA (online), SAET (online) \hfill 2021
+
+ESA (online) \hfill 2020
+
+Lancaster University (Lancaster, United Kingdom), EconomiX (Nanterre, France), Humboldt Universiteit (Berlin, Germany), Essex University (Colchester, United Kingdom), Sussex University (Brighton, United Kingdom), American University of Beirut (Lebanon) \hfill 2019
+
+Erudite (Créteil, France), EEA-ESEM (Cologne, Germany), ESA (Berlin, Germany), FUR (York, United Kingdom), ASFEE (Nice, France), BRIC (New-York, USA), AFSE (Paris, France) \hfill 2018
+
+OSE retreat (Aussois, France) \hfill 2017
+
+OSE retreat (Aussois, France), Doctorissimes (Paris, France) \hfill 2016
+
+OSE retreat (Aussois, France), Doctorissimes (Paris, France), EDP Jamboree (London, United Kingdom), AFSE (Rennes, France) \hfill 2015
+
+Doctorissimes (Paris, France) \hfill 2014
+
+
+# Grants and Awards
+
+AAP 2023, *University Paris 8* \hfill 2023
+
+M.J. Dormer Postdoctoral Fellow, *Lancaster University Management School* \hfill 2019 -- 2021
+
+ATER fellowship, *University Paris Nanterre* \hfill 2017 -- 2019
+
+Visiting scholar, *Kellogg, Northwestern University* \hfill Mar -- Sep 2016
+
+Ph.D. fellowship, *University Paris 1 Panthéon Sorbonne* \hfill 2014 -- 2017
+
+# Referee
+
+Journal of Economic Behavior and Organization, Mathematical Social Sciences, Journal of Economic Theory, Social Choice and Welfare
+
+Global Development Network and KOICA conference, theme: *Relevance of Korea's experience for developing countries*
+
+# Teaching
+
+## Université Paris 8
+
+Undegraduate first year: Microeconomics 1 \hfill 2022 -- present
+
+Undergraduate second year: Microeconomics 2, Quantitative Technics 4 \hfill 2021 -- present
+
+Undergraduate third year: Introduction to R for economists \hfill 2022 -- present
+
+Master first year: Preparation to internship and master thesis \hfill 2022 -- 2023
+
+Master second year: MIcroeconomics of Banking \hfill 2021 -- present
+
+## Lancaster University Management School
+
+Seminars: Behavioural and Experimental Economics (ECON328) \hfill 2019 -- 2021
+
+## University Paris Nanterre
+
+Undergraduate TA for first year: Macroeconomics A \hfill 2017 -- 2019
+
+Undergraduate TA for second year: Microeconomics B \hfill 2017 -- 2019
+
+Undergraduate TA for third year: Numerical Methods for Economics (Using R) \hfill 2017 -- 2019
+
+
+## University Paris 1 Panthéon Sorbonne
+
+Undergraduate TA for  first year: Microeconomics  \hfill 2014 -- 2015
+
+Undergraduate TA for first year: Mathematics  \hfill 2015 -- 2017
+
+Undergraduate TA for second year: Statistics and Probability  \hfill 2014 -- 2015 and 2016 -- 2017
+
+
+## École nationale des ponts et chaussées 
+
+Undergraduate TA for third year: Introduction to Economics\hfill 2016 -- 2017
+
+## University Paris 2 Panthéon Assas
+
+Undergraduate tutor for first year students in Economics \hfill 2013 -- 2014
+
+
+# Other relevant experiences
+
+## Paris School of Economics
+
+RA for Jean-Marc Tallon, Sujoy Mukerji and Han Ozsoylev. \hfill 2017 -- 2018
+
+
+# Other skills
+
+## Computer programming
+
+Work with: Microsoft Office, Linux, Python, Julia, LaTeX, Markdown, z-Tree, R, oTree, Quarto;
+
+Basis in: C++, Mathematica, Stata, Inquisit Milliseconds.
+
+## Languages
+
+French (native speaker), English (proficient), Arabic (reading and good oral understanding), Germany and Japanese (beginner)
+
+
+
+<!-- # References -->
+
+<!-- Jean-Marc Tallon -->
+<!-- CNRS, Paris School of Economics -->
+<!-- [jean-marc.tallon@psemail.eu](mailto:jean-marc.tallon@psemail.eu) -->
+
+<!-- Daniel Martin -->
+<!-- Kellogg School of Management, Northwestern University -->
+<!-- [d-martin@kellogg.northwestern.edu](mailto:d-martin@kellogg.northwestern.edu) -->
+
+<!-- Stéphane Zuber -->
+<!-- CNRS, University Paris 1 -->
+<!-- [stephane.zuber@univ-paris1.fr](mailto:stephane.zuber@univ-paris1.fr) -->
