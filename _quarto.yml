@@ -1,6 +1,8 @@
 project:
   type: website
-
+  render:
+    - "*.qmd"
+    - "!experiment/*"
 website:
   title: "Elias Bouacida"
   description: "Elias Bouacida is a maître de conférence at the University Paris 8"
@@ -10,21 +12,19 @@ website:
         text: Home
       - href: research/index.qmd
         text: "Research"
-      - sidebar:experiment
-      - href: elias.qmd
+      # - sidebar:experiment
+      - href: CV.qmd
         text: CV
       - about.qmd
-  sidebar:
-    id: experiment
-    title: "Experiment"
-    style: "floating"
-    contents: experiment
+  # sidebar:
+  #   id: experiment
+  #   title: "Experiment"
+  #   style: "floating"
+  #   contents: experiment
 
 format:
   html:
-    theme:
-      light: flatly
-      dark: darkly
+    theme: cosmo
     css: styles.css
     toc: true
 
