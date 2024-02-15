@@ -22,7 +22,7 @@ categories:
 pub-info:
   reference: >-
     <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a>"Decreasing Differences in Expert Advice: Evidence from Chess Players"
-  # links:
+  links:
   #   - name: Code
   #     url: https://github.com/RenaudFouc/PreferenceProcedure
   #     icon: fa-brands fa-github
@@ -30,9 +30,29 @@ pub-info:
   #     url: https://doi.org/10.57745/ORMINQ
   #     doi: 10.57745/ORMINQ
   #     icon: fa-solid fa-table
+    - name: PDF
+      url: https://shs.hal.science/halshs-04453028/file/2024WP.pdf
+      icon: fa-solid fa-file-pdf
 sidebar: false    
 ---
 
 ## Abstract
 
 We study the impact of external advice on the relative performance of chess players. We asked players in chess tournaments to evaluate positions in past games and allowed them to revise their evaluation following advice from a high or a low ability player. While our data confirms the theoretical prediction that high-quality advice has the potential to act as a ``great equalizer,'' reducing the difference between high and low ability players, this is not what happens in practice. This is in part because our subjects ignore too much of the advice they receive, but also because low ability players pay -- either due to overconfidence or intrinsic preference -- a higher premium than high ability ones by following their initial idea instead of high-quality advice.
+
+## Citation
+
+```bibtex
+@unpublished{bouacida:halshs-04453028,
+  TITLE = {{Decreasing Differences in Expert Advice: Evidence from Chess Players}},
+  AUTHOR = {Bouacida, Elias and Foucart, Renaud and Jalloul, Maya},
+  URL = {https://shs.hal.science/halshs-04453028},
+  NOTE = {working paper or preprint},
+  YEAR = {2024},
+  MONTH = Feb,
+  KEYWORDS = {decreasing differences ; expert ; advice ; chess ; control},
+  PDF = {https://shs.hal.science/halshs-04453028/file/2024WP.pdf},
+  HAL_ID = {halshs-04453028},
+  HAL_VERSION = {v1},
+}
+```
