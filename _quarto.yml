@@ -3,6 +3,8 @@ project:
   render:
     - "*.qmd"
     - "!experiment/*"
+  resources: 
+    - "*.pdf"
 website:
   title: "Elias Bouacida"
   description: "Elias Bouacida is a maître de conférence at the University Paris 8"
