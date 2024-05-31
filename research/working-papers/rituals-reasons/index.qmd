@@ -18,6 +18,9 @@ pub-info:
   reference: >-
     <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: A Choice-Based Approach to the Acceptability of Lotteries in Allocation Problems"
   links:
+    - name: Paper
+      url: https://hal.science/hal-04300926v2
+      icon: fa-brands fa-pdf
     - name: Code
       url: https://github.com/RenaudFouc/ArbitraryvsMeritocraty
       icon: fa-brands fa-github
@@ -25,10 +28,11 @@ pub-info:
       url: https://doi.org/10.17635/lancaster/researchdata/500
       doi: 10.17635/lancaster/researchdata/500
       icon: fa-solid fa-table
+
 sidebar: false    
 ---
 
-The latest version of the paper is available [here](WP.pdf) and the [Appendices](WP_Appendices.pdf). 
+The latest version of the paper is available [here](https://hal.science/hal-04300926v2/file/WP.pdf) and the [Appendices](https://hal.science/hal-04300926v2/file/WP_Appendices.pdf). 
 The code for the treatment of the data is available on Github here at the repo [ArbitraryvsMeritocraty](https://github.com/RenaudFouc/ArbitraryvsMeritocraty) and the research data [here](https://doi.org/10.17635/lancaster/researchdata/500).
 
 ## Abstract
@@ -47,12 +51,12 @@ For the paper:
   AUTHOR = {Bouacida, Elias and Foucart, Renaud},
   URL = {https://hal.science/hal-04300926},
   NOTE = {working paper or preprint},
-  YEAR = {2023},
-  MONTH = Nov,
-  KEYWORDS = {lotteries ; mechanism design ; allocation problems ; procedures ; tiebreaking rule},
-  PDF = {https://hal.science/hal-04300926/file/bouacida%20foucart%20nov%202023.pdf},
+  YEAR = {2024},
+  MONTH = Jan,
+  KEYWORDS = {lotteries ; mechanism design ; allocation problems ; procedures ; tie-breaking rule},
+  PDF = {https://hal.science/hal-04300926v2/file/WP.pdf},
   HAL_ID = {hal-04300926},
-  HAL_VERSION = {v1},
+  HAL_VERSION = {v2},
 }
 
 ```
