@@ -52,14 +52,13 @@ For the paper:
   TITLE = {{Rituals of Reason: Experimental Evidence on the Social Acceptability of Lotteries in Allocation Problems}},
   AUTHOR = {Bouacida, Elias and Foucart, Renaud},
   URL = {https://hal.science/hal-04300926},
-  NOTE = {working paper or preprint},
   YEAR = {2024},
   MONTH = Jan,
   KEYWORDS = {lotteries ; mechanism design ; allocation problems ; procedures ; tie-breaking rule},
   PDF = {https://hal.science/hal-04300926v2/file/WP.pdf},
   HAL_ID = {hal-04300926},
   HAL_VERSION = {v2},
-  notes = {R&R at Games and Economic Behavior}
+  note = {R&R at Games and Economic Behavior}
 }
 
 ```
