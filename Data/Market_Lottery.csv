@@ -1,6 +1,0 @@
-participant_code,participant_cost,payoff,USD_payoff,participant_mechanism,procedure1,procedure2,allocating_procedure,wta_Market,lulu_Market,lulu_compensation,lulu_collective_payoff,lulu_private_payoff,belief_payoff,comprehension_payoff,lottery_payoff,wta_Lottery_expect
-y01oiva0,1,242,4.84,Lottery,Market,Lottery,Market,56,false,0.0,26.666666666666668,90,0,20,30,7
-58pafkjw,0,163,3.26,Market,Market,Lottery,Market,5,true,42.0,26.666666666666668,10,0,0,9,86
-c00p2my8,1,242,4.84,Lottery,Market,Lottery,Market,56,false,0.0,26.666666666666668,90,20,0,30,41
-ys94uuyy,0,262,5.24,Market,Market,Lottery,Market,45,false,0.0,26.666666666666668,90,20,20,30,40
-spgfyy0g,0,204,4.08,Market,Market,Lottery,Market,40,true,42.0,26.666666666666668,10,0,20,30,10
