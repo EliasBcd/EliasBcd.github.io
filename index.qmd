@@ -10,6 +10,9 @@ about:
     - icon: github
       text: EliasBcd
       href: https://github.com/EliasBcd/
+    - icon: gitlab
+      text: ebouacida
+      href: https://gitlab.huma-num.fr/ebouacida
     - icon: orcid
       text: ORCiD
       href: https://orcid.org/0000-0001-8656-6678/
@@ -18,7 +21,7 @@ sidebar: false
 
 ## Biography
 
-I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility. I have also started using experiment to understand what procedures people prefer in the allocation of public goods.
+I am a Ph.D. in economics. I am a decision theorist and experimental economist working on the modeling and the understanding of human behavior. I design experiments and use revealed preference techniques to study various assumptions on individual preferences and utility. I am also using experiment to understand what procedures people prefer in the allocation of public goods.
 
 I am currently working as maître de conférence (assistant professor) in the [Laboratoire d'économie dyonisien](https://sites.google.com/site/up8led/home) at the [University Paris 8](https://www.univ-paris8.fr/en/).
 
@@ -34,6 +37,17 @@ You can have a look at all my past and current research [here](research/).
 
 I teach various courses at University Paris 8, mainly in microeconomics, at different levels. 
 I also supervise undergraduate projects and master thesis.
+You can find some material for my L3 R classes [here](https://eliasbcd.github.io/rl3/).
+My students should go to [Moodle](https://moodle.univ-paris8.fr/) and select their courses for the informations on the classes.
+
+## Miscellenaous
+
+I am also one of the resource person on the fight against sexist and sexual violences in the department of Economics at the University Paris 8.
+For anyone needing help inside the university, a rundown of the resources available is available [here](https://www.univ-paris8.fr/Violences-sexistes-et-sexuelles-discriminations-et-harcelement) (in French).
+
+I also was the Open Science Embassador for ERUA inside the University Paris 8 between 2023 and 2024.
+There is no more embassadorship program, but I am still committed to Open Science, feel free to contact me on the matter.
+
 
 <!-- Welcome to [Elias](elias.qmd)' trial at a new academic website. -->
 <!-- You can find the original one [here](https://bouacida.fr/). -->
