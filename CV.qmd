@@ -30,7 +30,9 @@ nocite: '@*'
 
 Maître de conférence, *Université Paris 8* \hfill $\text{Sep 2021 -- present}$
 
-ERUA Open Science Ambassador in Paris 8 \hfill $\text{2023--2024}$
+[European Reform University Alliance](https://erua-eui.eu/) Open Science Ambassador at Université Paris 8 \hfill $\text{2023--2024}$
+
+Open Data Correspondent in the economics department at Université Paris 8 \hfill 2023 -- present
 
 M.J. Dormer Postdoctoral Fellow, with Professor Eyal Winter *Lancaster University* \hfill $\text{2019 -- 2021}$
 
@@ -76,7 +78,7 @@ Engineering degree, *Ecole nationale des ponts et chaussées* \hfill 2009 -- 201
 
 # Conferences and Seminars
 
-Economic Solution in Practice (Lancaster, United Kingdom), Paris Behavioral Economics Symposium (Palaiseau, France), EEA-ESEM (Rotterdam, the Netherlands) \hfill 2024
+Economic Solutions in Practice (Lancaster, United Kingdom), Paris Behavioral Economics Symposium (Palaiseau, France), EEA-ESEM (Rotterdam, the Netherlands) \hfill 2024
 
 ASFEE (Montpellier, France), Doctoriales ASFEE (Aussois, France) \hfill 2023
 
@@ -136,6 +138,10 @@ Master second year: Microeconomics of Banking \hfill 2021 -- present
 ## University Paris-Dauphine
 
 Undegraduate third year: Decision Theory \hfill 2024 -- present
+
+## École Nationale des Arts et Métiers (ENSAM)
+
+Master second year: Decision Theory \hfill 2024
 
 ## Lancaster University Management School
 
