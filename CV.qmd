@@ -28,7 +28,7 @@ nocite: '@*'
 
 # Current and Past Positions
 
-Maître de conférence, *Université Paris 8* \hfill $\text{Sep 2021 -- present}$
+Maître de conférence, *[Université Paris 8 Vincennes Saint-Denis](https://www.univ-paris8.fr/)* \hfill $\text{Sep 2021 -- present}$
 
 [European Reform University Alliance](https://erua-eui.eu/) Open Science Ambassador at Université Paris 8 \hfill $\text{2023--2024}$
 

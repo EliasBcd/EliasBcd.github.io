@@ -17,9 +17,9 @@ categories:
 - Experiment
 pub-info:
   reference: >-
-    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: Experimental Evidence on the Social Acceptability of Lotteries in Allocation Problems"
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: Experimental Evidence on the Social Acceptability of Lotteries in Allocation Problems", <em>Games and Economic Behavior</em>, Pre-proof April 2025 doi: <a href="https://doi.org/10.1016/j.geb.2025.04.001"><code>10.1016/j.geb.2025.04.001</code></a>
   links:
-    - name: Paper
+    - name: Final version
       url: https://doi.org/10.1016/j.geb.2025.04.001
       icon: fa-brands fa-pdf
     - name: Code
@@ -33,8 +33,7 @@ pub-info:
 sidebar: false    
 ---
 
-The latest version of the paper is available [here](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fsd%2Farticle%2FS0899-8256%2825%2900047-8/1/010201961b99f268-1419271e-4823-49a9-8d9f-ab7effe66e74-000000/7mPb9cgSzrjOJ4rNloQi0ODvSr8=421) and the [Online Appendices](https://ars.els-cdn.com/content/image/1-s2.0-S0899825625000478-mmc1.pdf). 
-The code for the treatment of the data is available on Gitlab here at the repo [rituals-of-reasons-reproduction](https://gitlab.huma-num.fr/ebouacida/rituals-of-reasons-reproduction) and the research data [here](https://doi.org/10.57745/NZTMN9).
+The code for the treatment of the data is available on Humanum's GitLab at the repository [rituals-of-reasons-reproduction](https://gitlab.huma-num.fr/ebouacida/rituals-of-reasons-reproduction) and the research data [here](https://doi.org/10.57745/NZTMN9).
 Accepted at *Games and Economic Behavior*.
 
 ## Abstract

@@ -21,7 +21,7 @@ categories:
 - Experiment
 pub-info:
   reference: >-
-    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a>"When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a> "When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
   links:
     - name: Code
       url: https://decreasing-differences-ebouacida-92abd7c994ce472e25f3e62c7fbcaa.gitpages.huma-num.fr/
