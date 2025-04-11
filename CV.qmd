@@ -41,14 +41,14 @@ M.J. Dormer Postdoctoral Fellow, with Professor Eyal Winter *Lancaster Universit
 
 ## Doctoral Studies
 
-Ph.D. in Economics,  "Choice, Preferences, and Welfare", *Paris School of Economics, University Paris 1 Panthéon Sorbonne* \begin{flushright} $\text{2014 -- 2019}$\end{flushright} 
+Ph.D. in Economics, "Choice, Preferences, and Welfare", *Paris School of Economics, University Paris 1 Panthéon Sorbonne* \begin{flushright} $\text{2014 -- 2019}$\end{flushright} 
 Committee: Stéphane Zuber, Oliver l'Haridon, Eric Danan, Georgios Gerasimou, Daniel Martin (advisor), Jean-Marc Tallon (advisor)
 
 Visiting Scholar, sponsored by Professor Daniel Martin, *Kellogg School of Management, Northwestern University* \begin{flushright} $\text{Mar -- Sep 2016}$\end{flushright}
 
 ## Pre-Doctoral Studies
 
-M.Sc. Analysis and Policy in Economics. Thesis supervised by Professor Daniel Martin "The Unambiguous Preference Relation, an Application of the Strict Unambiguous Choice Relation and Behavioral Welfare Economics",  *Paris School of Economics, Ecole nationale des ponts et chaussées* \hfill $\text{2012 -- 2014}$
+M.Sc. Analysis and Policy in Economics. Thesis supervised by Professor Daniel Martin "The Unambiguous Preference Relation, an Application of the Strict Unambiguous Choice Relation and Behavioral Welfare Economics", *Paris School of Economics, Ecole nationale des ponts et chaussées* \hfill $\text{2012 -- 2014}$
 
 Engineering degree, *Ecole nationale des ponts et chaussées* \hfill 2009 -- 2014
 
@@ -78,6 +78,8 @@ Engineering degree, *Ecole nationale des ponts et chaussées* \hfill 2009 -- 201
 
 # Conferences and Seminars
 
+AFSE (Paris, France) \hfill 2025
+
 Economic Solutions in Practice (Lancaster, United Kingdom), Paris Behavioral Economics Symposium (Palaiseau, France), EEA-ESEM (Rotterdam, the Netherlands) \hfill 2024
 
 ASFEE (Montpellier, France), Doctoriales ASFEE (Aussois, France) \hfill 2023
@@ -103,6 +105,10 @@ Doctorissimes (Paris, France) \hfill 2014
 
 # Grants and Awards
 
+AAP 2025, *Paris Lumière Alliance*, Drivers for Ecological Transition \hfill 2025-2026
+
+AAP 2025, *University Paris 8*, Social Acceptability of Allocation Mechanisms for the Environmental Transition \hfill 2025
+
 AAP 2024, *University Paris 8*, Eliciting Stochastic Choices \hfill 2024
 
 AAP 2023, *University Paris 8* \hfill 2023
@@ -117,7 +123,7 @@ Ph.D. fellowship, *University Paris 1 Panthéon Sorbonne* \hfill 2014 -- 2017
 
 # Referee
 
-Journal of Economic Behavior and Organization, Mathematical Social Sciences, Journal of Economic Theory, Social Choice and Welfare, Economic Theory
+Journal of Economic Behavior and Organization, Mathematical Social Sciences, Journal of Economic Theory, Social Choice and Welfare, Economic Theory, Economic Journal
 
 Global Development Network and KOICA conference, theme: *Relevance of Korea's experience for developing countries*
 
