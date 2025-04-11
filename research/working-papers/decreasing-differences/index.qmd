@@ -1,6 +1,6 @@
 ---
-title: "Decreasing Differences in Expert Advice: Evidence from Chess Players"
-date: 2024-02-02
+title: "When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
+date: 2025-03-25
 author:
   - name: Elias Bouacida
     url: https://www.bouacida.fr
@@ -21,7 +21,7 @@ categories:
 - Experiment
 pub-info:
   reference: >-
-    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a>"Decreasing Differences in Expert Advice: Evidence from Chess Players"
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a>"When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
   links:
     - name: Code
       url: https://decreasing-differences-ebouacida-92abd7c994ce472e25f3e62c7fbcaa.gitpages.huma-num.fr/
@@ -36,7 +36,9 @@ pub-info:
 sidebar: false    
 ---
 
-The last version of the paper is available [here](Decreasing_Differences_in_Expert_Advice__Evidence_from_Chess_Players.pdf). 
+The paper previously circulated under the title *Decreasing Differences in Expert Advice: Evidence from Chess Players*.
+
+The last version of the paper is available [here](https://shs.hal.science/halshs-04453028v2). 
 The data is available on Recherche Data Gouv at <https://doi.org/10.57745/UL502I>.
 The data analysis for reproducibility purposes is [here](https://decreasing-differences-ebouacida-92abd7c994ce472e25f3e62c7fbcaa.gitpages.huma-num.fr/).
 
@@ -50,16 +52,16 @@ Working paper:
 
 ```bibtex
 @unpublished{bouacida:halshs-04453028,
-  TITLE = {{Decreasing Differences in Expert Advice: Evidence from Chess Players}},
+  TITLE = {{When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players}},
   AUTHOR = {Bouacida, Elias and Foucart, Renaud and Jalloul, Maya},
-  URL = {https://shs.hal.science/halshs-04453028},
-  NOTE = {working paper or preprint},
-  YEAR = {2024},
-  MONTH = Feb,
-  KEYWORDS = {decreasing differences ; expert ; advice ; chess ; control},
-  PDF = {https://shs.hal.science/halshs-04453028/file/2024WP.pdf},
+  URL = {https://shs.hal.science/halshs-04453028v2},
+  NOTE = {working paper or preprint, currently R&R at Journal of Economic Behavior and Organization},
+  YEAR = {2025},
+  MONTH = Mar,
+  KEYWORDS = {expert ; advice ; chess ; control ; productivity gap ; decreasing differences},
+  PDF = {https://shs.hal.science/halshs-04453028v1/file/2024WP.pdf},
   HAL_ID = {halshs-04453028},
-  HAL_VERSION = {v1},
+  HAL_VERSION = {v2},
 }
 ```
 
@@ -72,7 +74,7 @@ publisher = {Recherche Data Gouv},
 title = {{Decreasing Differences in Expert Evaluations: Evidence From a Field Experiment in Chess}},
 UNF = {UNF:6:O7lbRs7YE1njXRSkRhvJxg==},
 year = {2024},
-version = {V2},
+version = {V3.1},
 doi = {10.57745/UL502I},
 url = {https://doi.org/10.57745/UL502I},
 note = {data}
