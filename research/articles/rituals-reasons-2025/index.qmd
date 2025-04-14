@@ -17,9 +17,9 @@ categories:
 - Experiment
 pub-info:
   reference: >-
-    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: Experimental Evidence on the Social Acceptability of Lotteries in Allocation Problems", <em>Games and Economic Behavior</em>, Pre-proof April 2025 doi: <a href="https://doi.org/10.1016/j.geb.2025.04.001"><code>10.1016/j.geb.2025.04.001</code></a>
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>, "Rituals of Reason: Experimental Evidence on the Social Acceptability of Lotteries in Allocation Problems", <em>Games and Economic Behavior</em>, Volume 152,  July 2025, Pages 23-36, doi: <a href="https://doi.org/10.1016/j.geb.2025.04.001"><code>10.1016/j.geb.2025.04.001</code></a>
   links:
-    - name: Final version
+    - name: Paper
       url: https://doi.org/10.1016/j.geb.2025.04.001
       icon: fa-brands fa-pdf
     - name: Code

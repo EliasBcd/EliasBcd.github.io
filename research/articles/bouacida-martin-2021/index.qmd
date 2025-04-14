@@ -17,7 +17,7 @@ pub-info:
   reference: >-
     <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="http://www.martinonline.org/daniel/index.html">Daniel Martin</a>, "Predictive Power in Behavioral Welfare Economics", <em>Journal of the European Economic Association</em>, Volume 19, Issue 3, June 2021, Pages 1556–1591, doi: <a href="https://doi.org/10.1093/jeea/jvaa037"><code>10.1093/jeea/jvaa037</code></a>
   links:
-    - name: Final version
+    - name: Paper
       url: https://doi.org/10.1093/jeea/jvaa037
       icon: fa-solid fa-scroll
 sidebar: false
