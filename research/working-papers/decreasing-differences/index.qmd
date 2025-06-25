@@ -1,6 +1,6 @@
 ---
 title: "When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
-date: 2025-03-25
+date: 2025-06-25
 author:
   - name: Elias Bouacida
     url: https://www.bouacida.fr
@@ -44,7 +44,7 @@ The data analysis for reproducibility purposes is [here](https://decreasing-diff
 
 ## Abstract
 
-We study the impact of external advice on the relative performance of chess players. We asked players in chess tournaments to evaluate positions in past games and allowed them to revise their evaluation following advice from a high or a low ability player. While high-quality advice has the potential to act as a "great equalizer," reducing the difference between high and low ability players, this is not what happens in our experiment. This is in part because our subjects ignore too much of the advice they receive. It is also because low ability players pay a higher premium than high ability ones by following their initial idea instead of high-quality advice.
+We study the impact of external advice on the relative performance of chess players. We asked players in chess tournaments to evaluate positions in past games and allowed them to revise their evaluation after observing the answers of a higher or a lower-ability adviser. Although high-quality advice has the potential to serve as a "great equalizer," reducing the difference between higher- and lower-ability players, it did not happen in our experiment. One reason is that lower-ability players tend to pay a higher premium by sticking to their initial evaluation rather than following high-quality advice.
 
 ## Citation
 
@@ -55,9 +55,9 @@ Working paper:
   TITLE = {{When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players}},
   AUTHOR = {Bouacida, Elias and Foucart, Renaud and Jalloul, Maya},
   URL = {https://shs.hal.science/halshs-04453028v2},
-  NOTE = {working paper or preprint, currently R&R at Journal of Economic Behavior and Organization},
+  NOTE = {Preprint, Accepted at  the Journal of Economic Behavior and Organization},
   YEAR = {2025},
-  MONTH = Mar,
+  MONTH = May,
   KEYWORDS = {expert ; advice ; chess ; control ; productivity gap ; decreasing differences},
   PDF = {https://shs.hal.science/halshs-04453028v1/file/2024WP.pdf},
   HAL_ID = {halshs-04453028},
