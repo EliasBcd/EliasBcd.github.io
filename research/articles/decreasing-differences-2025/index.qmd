@@ -1,0 +1,84 @@
+---
+title: "When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players"
+-date: 2025-07-04
+author:
+  - name: Elias Bouacida
+    url: https://www.bouacida.fr
+    orcid: 0000-0001-8656-6678
+    affiliation: University Paris 8
+  - name: Renaud Foucart
+    url: https://sites.google.com/site/renaudfoucart/
+    affiliation: Lancaster University Management School
+    orcid: 0000-0003-0611-6146
+  - name: Maya Jalloul
+    url: https://www.lancaster.ac.uk/lums/people/maya-jalloul/
+    affiliation: Lancaster University Management School
+    orcid: 0000-0003-3440-3281
+doi: "10.1016/j.jebo.2025.107124"
+categories: 
+- Advice
+- Control
+- Experiment
+pub-info:
+  reference: >-
+    <a href="https://www.bouacida.fr/">Elias Bouacida</a>, <a href="https://sites.google.com/site/renaudfoucart/">Renaud Foucart</a>,  <a href="https://www.lancaster.ac.uk/lums/people/maya-jalloul/">Maya Jalloul</a> "When Expert Advice Fails to Reduce the Productivity Gap: Experimental Evidence from Chess Players", <em>Journal of Economic Behavior & Organization</em>, Volume 236, August 2025, doi: <a href="https://doi.org/10.1016/j.jebo.2025.107124"><code>10.1016/j.jebo.2025.107124</code></a>
+  links:
+    - name: Continuous Integration
+      url: https://decreasing-differences-ebouacida-92abd7c994ce472e25f3e62c7fbcaa.gitpages.huma-num.fr/
+      icon: fa-brands fa-github
+    - name: Data
+      url: https://doi.org/10.57745/UL502I
+      doi: 10.57745/UL502I
+      icon: fa-solid fa-table
+    # - name: PDF
+    #   url: https://shs.hal.science/halshs-04453028/file/2024WP.pdf
+    #   icon: fa-solid fa-file-pdf
+sidebar: false    
+---
+
+The paper previously circulated under the title *Decreasing Differences in Expert Advice: Evidence from Chess Players*.
+
+The last version of the paper is available [here](https://doi.org/10.1016/j.jebo.2025.107124). 
+The data is available on Recherche Data Gouv at <https://doi.org/10.57745/UL502I>.
+The data analysis for reproducibility purposes is [here](https://decreasing-differences-ebouacida-92abd7c994ce472e25f3e62c7fbcaa.gitpages.huma-num.fr/). It is also available on Recherche Data Gouv.
+
+## Abstract
+
+We study the impact of external advice on the relative performance of chess players. We asked players in chess tournaments to evaluate positions in past games and allowed them to revise their evaluation after observing the answers of a higher or a lower-ability adviser. Although high-quality advice has the potential to serve as a “great equalizer,” reducing the difference between higher- and lower-ability players, it did not happen in our experiment. One reason is that lower-ability players tend to pay a higher premium by sticking to their initial evaluation rather than following high-quality advice.
+
+## Citation
+
+Paper:
+
+```bibtex
+@article{BOUACIDA2025107124,
+title = {When expert advice fails to reduce the productivity gap: Experimental evidence from chess players},
+journal = {Journal of Economic Behavior & Organization},
+volume = {236},
+pages = {107124},
+year = {2025},
+issn = {0167-2681},
+doi = {https://doi.org/10.1016/j.jebo.2025.107124},
+url = {https://www.sciencedirect.com/science/article/pii/S0167268125002434},
+author = {Elias Bouacida and Renaud Foucart and Maya Jalloul},
+keywords = {Decreasing differences, Productivity gap, Expert, Advice, Chess, Control},
+abstract = {We study the impact of external advice on the relative performance of chess players. We asked players in chess tournaments to evaluate positions in past games and allowed them to revise their evaluation after observing the answers of a higher or a lower-ability adviser. Although high-quality advice has the potential to serve as a “great equalizer,” reducing the difference between higher- and lower-ability players, it did not happen in our experiment. One reason is that lower-ability players tend to pay a higher premium by sticking to their initial evaluation rather than following high-quality advice.}
+}
+```
+
+Data:
+
+```bibtex
+@misc{UL502I_2024,
+author = {Bouacida, Elias and Foucart, Renaud and Jalloul, Maya},
+publisher = {Recherche Data Gouv},
+title = {{Decreasing Differences in Expert Evaluations: Evidence From a Field Experiment in Chess}},
+UNF = {UNF:6:O7lbRs7YE1njXRSkRhvJxg==},
+year = {2024},
+version = {V3.1},
+doi = {10.57745/UL502I},
+url = {https://doi.org/10.57745/UL502I},
+note = {data}
+}
+```
+
